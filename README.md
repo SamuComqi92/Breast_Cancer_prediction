@@ -11,4 +11,4 @@ Summary
 - Model finalization
 - Test on unseen data
 
-For a complete view --> 
+For a complete view --> https://nbviewer.org/github/SamuComqi92/Breast_Cancer_prediction/blob/main/Breast_Cancer_prediction2.ipynb

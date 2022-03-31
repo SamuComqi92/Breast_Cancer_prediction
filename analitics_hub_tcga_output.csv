@@ -1,0 +1,1206 @@
+Patient ID,Definition,Tumour Stage,Survival Status,Gender,Menopausal Status,Race,Age,ER,PR,HER2,Lymph Node,Metastasis,Histological Type,Subtype
+TCGA-3C-AAAU,primary solid tumor,X,alive,female,premenopausal,white,55,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-3C-AALI,primary solid tumor,2b,alive,female,postmenopausal,black or african american,50,positive,positive,positive,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-3C-AALJ,primary solid tumor,2b,alive,female,postmenopausal,black or african american,NA,positive,positive,indeterminate,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-3C-AALK,primary solid tumor,1a,alive,female,unknown,black or african american,NA,positive,positive,positive,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-4H-AAAK,primary solid tumor,3a,alive,female,postmenopausal,white,50,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Her2
+TCGA-5L-AAT0,primary solid tumor,2a,alive,female,postmenopausal,white,42,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-5L-AAT1,primary solid tumor,4,alive,female,postmenopausal,white,63,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-5T-A9QA,primary solid tumor,2a,alive,female,unknown,black or african american,52,negative,NA,equivocal,NA,NA,other,LumB
+TCGA-A1-A0SB,primary solid tumor,1,alive,female,postmenopausal,white,70,positive,negative,negative,absent,absent,other,LumA
+TCGA-A1-A0SD,primary solid tumor,2a,alive,female,not available,white,59,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A1-A0SE,primary solid tumor,1,alive,female,premenopausal,white,56,positive,positive,negative,absent,absent,mixed histology,LumA
+TCGA-A1-A0SF,primary solid tumor,2a,alive,female,premenopausal,white,54,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-A1-A0SG,primary solid tumor,2b,alive,female,postmenopausal,white,61,positive,positive,negative,present,absent,other,Basal
+TCGA-A1-A0SH,primary solid tumor,2a,alive,female,premenopausal,white,39,negative,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A1-A0SI,primary solid tumor,2b,alive,female,not available,white,52,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A1-A0SJ,primary solid tumor,3a,alive,female,not available,black or african american,39,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A1-A0SK,primary solid tumor,2a,deceased,female,indeterminate,asian,54,negative,negative,negative,absent,absent,other,Her2
+TCGA-A1-A0SM,primary solid tumor,2a,alive,male,not available,white,77,positive,negative,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A1-A0SN,primary solid tumor,2a,alive,female,postmenopausal,white,50,positive,positive,positive,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-A1-A0SO,primary solid tumor,2b,alive,female,postmenopausal,white,67,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A1-A0SP,primary solid tumor,2a,alive,female,not available,not reported,40,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-A1-A0SQ,primary solid tumor,2b,alive,female,premenopausal,white,45,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A04N,primary solid tumor,1a,alive,female,postmenopausal,white,66,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-A2-A04P,primary solid tumor,3c,deceased,female,premenopausal,black or african american,36,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A04Q,primary solid tumor,1a,alive,female,postmenopausal,white,48,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A04R,primary solid tumor,1a,alive,female,premenopausal,black or african american,36,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-A2-A04T,primary solid tumor,2a,alive,female,postmenopausal,white,62,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A04U,primary solid tumor,2a,alive,female,perimenopausal,white,47,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-A2-A04V,primary solid tumor,2a,deceased,female,premenopausal,white,39,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-A2-A04W,primary solid tumor,2b,alive,female,premenopausal,white,50,negative,negative,positive,present,absent,other,LumA
+TCGA-A2-A04X,primary solid tumor,2a,alive,female,premenopausal,white,34,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A04Y,primary solid tumor,2b,alive,female,postmenopausal,white,53,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0CK,primary solid tumor,3a,alive,female,postmenopausal,white,60,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-A2-A0CL,primary solid tumor,3a,alive,female,premenopausal,black or african american,37,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0CM,primary solid tumor,2a,deceased,female,premenopausal,black or african american,40,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0CO,primary solid tumor,2b,deceased,female,postmenopausal,white,85,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-A2-A0CP,primary solid tumor,1a,alive,female,postmenopausal,white,60,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-A2-A0CQ,primary solid tumor,1a,alive,female,postmenopausal,black or african american,62,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-A2-A0CR,primary solid tumor,2b,alive,female,postmenopausal,asian,54,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Her2
+TCGA-A2-A0CS,primary solid tumor,4,deceased,female,postmenopausal,white,73,positive,positive,negative,present,present,infiltrating ductal carcinoma,LumB
+TCGA-A2-A0CT,primary solid tumor,2a,alive,female,postmenopausal,white,71,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-A2-A0CU,primary solid tumor,2a,deceased,female,postmenopausal,white,73,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0CV,primary solid tumor,2b,alive,female,postmenopausal,asian,41,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0CW,primary solid tumor,2b,alive,female,postmenopausal,white,67,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-A2-A0CX,primary solid tumor,2a,alive,female,premenopausal,white,52,positive,negative,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0CY,primary solid tumor,2b,alive,female,postmenopausal,white,63,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A2-A0CZ,primary solid tumor,2a,alive,female,perimenopausal,white,46,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0D0,primary solid tumor,2a,alive,female,postmenopausal,black or african american,60,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-A2-A0D1,primary solid tumor,2a,alive,female,postmenopausal,white,76,negative,negative,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-A2-A0D2,primary solid tumor,2a,alive,female,premenopausal,white,45,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0D3,primary solid tumor,1a,alive,female,postmenopausal,white,42,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-A2-A0D4,primary solid tumor,2b,alive,female,premenopausal,black or african american,37,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A2-A0EM,primary solid tumor,1a,alive,female,postmenopausal,white,73,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0EN,primary solid tumor,2a,alive,female,postmenopausal,white,70,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumB
+TCGA-A2-A0EO,primary solid tumor,1a,alive,female,perimenopausal,white,54,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0EP,primary solid tumor,1,alive,female,postmenopausal,white,56,positive,negative,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-A2-A0EQ,primary solid tumor,2a,alive,female,postmenopausal,black or african american,64,negative,negative,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-A2-A0ER,primary solid tumor,1b,alive,female,postmenopausal,white,63,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0ES,primary solid tumor,2a,alive,female,postmenopausal,white,52,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-A2-A0ET,primary solid tumor,3a,alive,female,postmenopausal,white,58,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0EU,primary solid tumor,1a,alive,female,postmenopausal,white,79,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-A2-A0EV,primary solid tumor,1a,alive,female,postmenopausal,white,80,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-A2-A0EW,primary solid tumor,3c,deceased,female,postmenopausal,white,53,positive,positive,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-A2-A0EX,primary solid tumor,2b,alive,female,postmenopausal,white,46,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,Normal
+TCGA-A2-A0EY,primary solid tumor,2b,alive,female,postmenopausal,white,62,positive,negative,positive,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-A2-A0ST,primary solid tumor,2a,alive,female,postmenopausal,white,62,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0SU,primary solid tumor,2a,alive,female,postmenopausal,white,66,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0SV,primary solid tumor,4,deceased,female,postmenopausal,white,63,positive,positive,negative,present,present,infiltrating ductal carcinoma,Normal
+TCGA-A2-A0SW,primary solid tumor,4,deceased,female,postmenopausal,white,82,positive,negative,negative,present,present,infiltrating ductal carcinoma,LumB
+TCGA-A2-A0SX,primary solid tumor,1a,alive,female,premenopausal,white,48,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0SY,primary solid tumor,3a,alive,female,postmenopausal,white,62,positive,positive,positive,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-A2-A0T0,primary solid tumor,2b,alive,female,postmenopausal,white,59,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0T1,primary solid tumor,3c,alive,female,postmenopausal,american indian or alaska native,55,negative,negative,positive,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-A2-A0T2,primary solid tumor,4,deceased,female,postmenopausal,white,66,negative,negative,negative,present,present,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0T3,primary solid tumor,1b,alive,female,premenopausal,white,37,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0T4,primary solid tumor,2a,alive,female,postmenopausal,white,62,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,Normal
+TCGA-A2-A0T5,primary solid tumor,2a,alive,female,premenopausal,white,39,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0T6,primary solid tumor,2b,alive,female,premenopausal,white,50,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-A2-A0T7,primary solid tumor,2a,alive,female,premenopausal,white,51,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0YC,primary solid tumor,2b,alive,female,postmenopausal,white,59,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A2-A0YD,primary solid tumor,2b,alive,female,postmenopausal,white,63,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-A2-A0YE,primary solid tumor,2b,alive,female,postmenopausal,white,48,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0YF,primary solid tumor,1,alive,female,postmenopausal,black or african american,67,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0YG,primary solid tumor,3c,alive,female,postmenopausal,white,63,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0YH,primary solid tumor,3a,alive,female,postmenopausal,white,53,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-A2-A0YI,primary solid tumor,1,alive,female,postmenopausal,white,62,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0YJ,primary solid tumor,3a,alive,female,premenopausal,white,39,positive,negative,negative,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-A2-A0YK,primary solid tumor,2a,alive,female,postmenopausal,white,61,positive,negative,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-A2-A0YL,primary solid tumor,3a,alive,female,premenopausal,white,48,positive,positive,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-A2-A0YM,primary solid tumor,2a,alive,female,postmenopausal,white,67,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A0YT,primary solid tumor,3b,deceased,female,postmenopausal,white,56,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A1FV,primary solid tumor,2b,alive,female,postmenopausal,white,74,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-A2-A1FW,primary solid tumor,3a,alive,female,postmenopausal,white,62,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A1FX,primary solid tumor,3a,alive,female,postmenopausal,white,61,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-A2-A1FZ,primary solid tumor,2a,alive,female,postmenopausal,white,63,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A1G0,primary solid tumor,2b,alive,female,premenopausal,white,49,positive,positive,negative,present,absent,other,LumA
+TCGA-A2-A1G1,primary solid tumor,2b,alive,female,postmenopausal,white,85,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A1G4,primary solid tumor,3a,alive,female,postmenopausal,white,71,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A2-A1G6,primary solid tumor,3a,alive,female,premenopausal,white,50,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A259,primary solid tumor,1,alive,female,postmenopausal,black or african american,70,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A25A,primary solid tumor,2a,alive,female,premenopausal,white,44,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-A2-A25B,primary solid tumor,2b,alive,female,premenopausal,black or african american,39,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A25C,primary solid tumor,2b,alive,female,premenopausal,white,50,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A25D,primary solid tumor,3c,alive,female,postmenopausal,white,90,positive,negative,negative,present,absent,infiltrating lobular carcinoma,Normal
+TCGA-A2-A25E,primary solid tumor,3a,alive,female,premenopausal,black or african american,34,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A25F,primary solid tumor,2a,alive,female,postmenopausal,white,66,negative,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A2-A3KC,primary solid tumor,2b,alive,female,premenopausal,black or african american,55,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-A2-A3KD,primary solid tumor,3a,alive,female,premenopausal,white,47,positive,positive,negative,NA,NA,mucinous carcinoma,Normal
+TCGA-A2-A3XS,primary solid tumor,3a,deceased,female,postmenopausal,black or african american,62,negative,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-A2-A3XT,primary solid tumor,2b,alive,female,premenopausal,black or african american,45,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-A2-A3XU,primary solid tumor,2b,deceased,female,postmenopausal,black or african american,35,negative,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-A2-A3XV,primary solid tumor,2a,alive,female,premenopausal,black or african american,46,positive,negative,equivocal,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-A2-A3XW,primary solid tumor,2b,alive,female,premenopausal,black or african american,42,positive,negative,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-A2-A3XX,primary solid tumor,2a,deceased,female,postmenopausal,black or african american,49,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-A2-A3XY,primary solid tumor,2b,deceased,female,postmenopausal,black or african american,49,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-A2-A3XZ,primary solid tumor,1,alive,female,premenopausal,black or african american,46,negative,negative,positive,NA,NA,infiltrating ductal carcinoma,Normal
+TCGA-A2-A3Y0,primary solid tumor,2b,alive,female,postmenopausal,black or african american,57,positive,negative,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-A2-A4RW,primary solid tumor,3c,alive,female,premenopausal,white,49,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-A2-A4RX,primary solid tumor,2a,alive,female,postmenopausal,black or african american,67,positive,positive,negative,NA,NA,metaplastic carcinoma,LumA
+TCGA-A2-A4RY,primary solid tumor,3c,alive,female,premenopausal,white,46,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-A2-A4S0,primary solid tumor,2a,alive,female,postmenopausal,white,77,positive,positive,negative,NA,NA,mucinous carcinoma,LumA
+TCGA-A2-A4S1,primary solid tumor,2a,alive,female,postmenopausal,white,66,positive,negative,negative,NA,NA,metaplastic carcinoma,LumB
+TCGA-A2-A4S2,primary solid tumor,3a,alive,female,postmenopausal,white,62,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-A2-A4S3,primary solid tumor,2b,alive,female,postmenopausal,black or african american,59,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-A7-A0CD,primary solid tumor,1,alive,female,indeterminate,white,66,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A7-A0CE,primary solid tumor,2a,alive,female,indeterminate,white,57,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-A7-A0CE,solid tissue normal,2a,alive,female,indeterminate,white,57,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-A7-A0CG,primary solid tumor,2a,alive,female,postmenopausal,white,78,positive,negative,NA,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A7-A0CH,primary solid tumor,2a,alive,female,postmenopausal,white,78,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-A7-A0CH,solid tissue normal,2a,alive,female,postmenopausal,white,78,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-A7-A0CJ,primary solid tumor,2a,alive,female,postmenopausal,white,57,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-A7-A0D9,primary solid tumor,2a,alive,female,premenopausal,white,37,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-A7-A0D9,solid tissue normal,2a,alive,female,premenopausal,white,NA,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-A7-A0DA,primary solid tumor,2a,alive,female,postmenopausal,white,62,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-A7-A0DB,primary solid tumor,2a,alive,female,postmenopausal,white,56,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-A7-A0DB,solid tissue normal,2a,alive,female,postmenopausal,white,56,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-A7-A13D,primary solid tumor,2a,alive,female,postmenopausal,black or african american,46,negative,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A7-A13E,primary solid tumor,2b,deceased,female,postmenopausal,white,62,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A7-A13E,solid tissue normal,2b,deceased,female,postmenopausal,white,62,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-A7-A13F,primary solid tumor,3a,alive,female,premenopausal,white,44,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A7-A13F,solid tissue normal,3a,alive,female,postmenopausal,white,44,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-A7-A13G,primary solid tumor,2a,alive,female,postmenopausal,white,79,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,Basal
+TCGA-A7-A13G,solid tissue normal,2a,alive,female,postmenopausal,white,79,NA,NA,NA,NA,NA,infiltrating lobular carcinoma,NA
+TCGA-A7-A13H,primary solid tumor,2b,alive,female,postmenopausal,white,61,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-A7-A26E,primary solid tumor,3a,alive,female,postmenopausal,white,71,positive,positive,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-A7-A26F,primary solid tumor,1a,alive,female,postmenopausal,white,55,negative,negative,negative,absent,absent,other,LumA
+TCGA-A7-A26G,primary solid tumor,2a,alive,female,premenopausal,black or african american,50,negative,negative,negative,absent,absent,other,LumA
+TCGA-A7-A26H,primary solid tumor,2a,alive,female,postmenopausal,white,72,positive,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A7-A26I,primary solid tumor,2a,alive,female,postmenopausal,white,65,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A7-A26J,primary solid tumor,2a,alive,female,premenopausal,white,49,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-A7-A2KD,primary solid tumor,3a,alive,female,postmenopausal,black or african american,53,positive,positive,positive,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-A7-A3IY,primary solid tumor,1,alive,female,postmenopausal,white,71,positive,positive,negative,NA,NA,mucinous carcinoma,LumA
+TCGA-A7-A3IZ,primary solid tumor,2a,alive,female,postmenopausal,white,62,positive,negative,equivocal,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-A7-A3J0,primary solid tumor,2a,alive,female,postmenopausal,white,62,positive,positive,negative,NA,NA,mucinous carcinoma,LumA
+TCGA-A7-A3J1,primary solid tumor,1a,alive,female,postmenopausal,white,63,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-A7-A3RF,primary solid tumor,2a,alive,female,postmenopausal,white,79,positive,positive,negative,NA,NA,mucinous carcinoma,LumA
+TCGA-A7-A425,primary solid tumor,3c,alive,female,postmenopausal,white,70,positive,positive,indeterminate,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-A7-A426,primary solid tumor,3c,alive,female,premenopausal,white,50,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-A7-A4SA,primary solid tumor,2b,alive,female,premenopausal,white,40,positive,negative,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-A7-A4SB,primary solid tumor,3a,alive,female,postmenopausal,white,56,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-A7-A4SC,primary solid tumor,2b,alive,female,postmenopausal,white,62,positive,negative,equivocal,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-A7-A4SD,primary solid tumor,2a,alive,female,postmenopausal,black or african american,52,negative,negative,equivocal,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-A7-A4SE,primary solid tumor,2a,alive,female,postmenopausal,black or african american,54,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-A7-A4SF,primary solid tumor,2a,alive,female,postmenopausal,black or african american,54,positive,negative,positive,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-A7-A56D,primary solid tumor,2a,alive,female,postmenopausal,black or african american,84,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-A7-A5ZV,primary solid tumor,2a,alive,female,postmenopausal,black or african american,62,negative,negative,equivocal,NA,NA,infiltrating carcinoma nos,LumB
+TCGA-A7-A5ZW,primary solid tumor,2a,alive,female,perimenopausal,black or african american,47,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,Normal
+TCGA-A7-A5ZX,primary solid tumor,3c,alive,female,premenopausal,white,48,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-A7-A6VV,primary solid tumor,2a,alive,female,perimenopausal,black or african american,51,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-A7-A6VW,primary solid tumor,2a,alive,female,postmenopausal,black or african american,48,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,Her2
+TCGA-A7-A6VX,primary solid tumor,2a,alive,female,postmenopausal,black or african american,68,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-A7-A6VY,primary solid tumor,2b,alive,female,postmenopausal,black or african american,48,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-A8-A06N,primary solid tumor,3b,alive,female,postmenopausal,not reported,66,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-A8-A06O,primary solid tumor,1,alive,female,postmenopausal,not reported,60,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A06P,primary solid tumor,3a,alive,female,postmenopausal,not reported,63,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-A8-A06Q,primary solid tumor,3a,alive,female,postmenopausal,not reported,63,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A06R,primary solid tumor,2b,alive,female,postmenopausal,not reported,69,positive,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A06T,primary solid tumor,3a,alive,female,postmenopausal,not reported,75,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A06U,primary solid tumor,2b,deceased,female,postmenopausal,not reported,80,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A06X,primary solid tumor,2b,deceased,female,postmenopausal,not reported,77,positive,negative,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A06Y,primary solid tumor,2a,alive,female,postmenopausal,not reported,66,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A06Z,primary solid tumor,2b,alive,female,postmenopausal,not reported,84,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A075,primary solid tumor,2b,alive,female,premenopausal,not reported,42,positive,positive,positive,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-A8-A076,primary solid tumor,2a,alive,female,postmenopausal,not reported,66,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A079,primary solid tumor,3b,alive,female,postmenopausal,not reported,69,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A07B,primary solid tumor,2a,alive,female,postmenopausal,not reported,69,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A07C,primary solid tumor,2a,alive,female,postmenopausal,not reported,57,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A07E,primary solid tumor,X,alive,female,postmenopausal,not reported,81,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A07F,primary solid tumor,2b,alive,female,postmenopausal,not reported,65,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A07G,primary solid tumor,2a,alive,female,postmenopausal,not reported,65,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A07I,primary solid tumor,3a,alive,female,postmenopausal,not reported,69,positive,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A07J,primary solid tumor,2b,alive,female,premenopausal,not reported,35,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A07L,primary solid tumor,3a,alive,female,postmenopausal,not reported,58,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A07O,primary solid tumor,2a,alive,female,postmenopausal,not reported,51,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A07P,primary solid tumor,2b,alive,female,postmenopausal,not reported,68,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A07R,primary solid tumor,3c,alive,female,not available,not reported,80,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A07S,primary solid tumor,2a,alive,female,postmenopausal,not reported,73,positive,negative,negative,absent,absent,mixed histology,Basal
+TCGA-A8-A07U,primary solid tumor,3a,alive,female,postmenopausal,not reported,66,negative,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A07W,primary solid tumor,4,alive,female,postmenopausal,not reported,76,positive,positive,negative,absent,present,infiltrating ductal carcinoma,LumB
+TCGA-A8-A07Z,primary solid tumor,2a,alive,female,postmenopausal,not reported,85,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A081,primary solid tumor,2a,alive,female,postmenopausal,not reported,80,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A082,primary solid tumor,2b,alive,female,postmenopausal,not reported,58,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A083,primary solid tumor,2b,alive,female,postmenopausal,not reported,67,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-A8-A084,primary solid tumor,2b,alive,female,postmenopausal,not reported,81,positive,negative,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-A8-A085,primary solid tumor,2b,alive,male,not available,not reported,44,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A086,primary solid tumor,2a,alive,female,postmenopausal,not reported,59,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A08A,primary solid tumor,1,alive,female,postmenopausal,not reported,89,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-A8-A08B,primary solid tumor,2a,alive,female,premenopausal,not reported,52,positive,negative,positive,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-A8-A08C,primary solid tumor,2a,alive,female,postmenopausal,not reported,65,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-A8-A08F,primary solid tumor,3c,alive,female,postmenopausal,not reported,59,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A08G,primary solid tumor,2a,alive,female,premenopausal,not reported,41,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A08H,primary solid tumor,2a,alive,female,postmenopausal,not reported,66,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A08I,primary solid tumor,2a,alive,female,postmenopausal,not reported,53,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A08J,primary solid tumor,4,deceased,female,postmenopausal,not reported,52,positive,negative,negative,present,present,infiltrating ductal carcinoma,LumA
+TCGA-A8-A08L,primary solid tumor,3a,deceased,female,postmenopausal,not reported,89,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A08O,primary solid tumor,4,alive,female,premenopausal,not reported,45,positive,positive,negative,present,present,infiltrating ductal carcinoma,Her2
+TCGA-A8-A08P,primary solid tumor,3a,alive,female,postmenopausal,not reported,70,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A08R,primary solid tumor,2b,alive,female,postmenopausal,not reported,52,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A08S,primary solid tumor,2a,alive,female,postmenopausal,not reported,71,positive,positive,positive,present,absent,infiltrating ductal carcinoma,Her2
+TCGA-A8-A08T,primary solid tumor,4,deceased,female,postmenopausal,not reported,64,positive,positive,positive,present,present,infiltrating ductal carcinoma,Her2
+TCGA-A8-A08X,primary solid tumor,3c,alive,female,premenopausal,not reported,43,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A08Z,primary solid tumor,NA,alive,female,postmenopausal,not reported,76,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A090,primary solid tumor,2a,alive,female,postmenopausal,not reported,74,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-A8-A091,primary solid tumor,2a,alive,female,postmenopausal,not reported,61,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A092,primary solid tumor,3a,alive,female,premenopausal,not reported,48,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-A8-A093,primary solid tumor,2a,alive,female,postmenopausal,not reported,61,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-A8-A094,primary solid tumor,2a,alive,female,postmenopausal,not reported,75,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A095,primary solid tumor,1,alive,female,premenopausal,not reported,45,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A096,primary solid tumor,2a,alive,female,postmenopausal,not reported,73,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A097,primary solid tumor,2b,alive,female,postmenopausal,not reported,65,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A099,primary solid tumor,X,alive,female,postmenopausal,not reported,76,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A09A,primary solid tumor,X,alive,female,premenopausal,not reported,40,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A09B,primary solid tumor,3b,alive,female,postmenopausal,not reported,58,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A09C,primary solid tumor,X,alive,female,postmenopausal,not reported,69,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A09D,primary solid tumor,2b,alive,female,postmenopausal,not reported,47,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A09E,primary solid tumor,3b,alive,female,postmenopausal,not reported,73,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A09G,primary solid tumor,3c,alive,female,postmenopausal,not reported,79,positive,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A09I,primary solid tumor,2a,alive,female,postmenopausal,not reported,84,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A09K,primary solid tumor,2a,alive,female,postmenopausal,not reported,68,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A09M,primary solid tumor,3c,alive,female,postmenopausal,not reported,75,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-A8-A09N,primary solid tumor,3c,alive,female,postmenopausal,not reported,57,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A09Q,primary solid tumor,3b,alive,female,postmenopausal,not reported,83,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-A8-A09R,primary solid tumor,2b,alive,female,postmenopausal,not reported,82,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A09T,primary solid tumor,NA,alive,female,postmenopausal,not reported,68,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,Basal
+TCGA-A8-A09V,primary solid tumor,2a,alive,female,premenopausal,not reported,51,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-A8-A09W,primary solid tumor,3b,alive,female,postmenopausal,not reported,70,positive,positive,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-A8-A09X,primary solid tumor,3c,deceased,female,postmenopausal,not reported,62,negative,negative,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-A8-A09Z,primary solid tumor,2b,alive,female,postmenopausal,not reported,83,positive,negative,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-A8-A0A1,primary solid tumor,2a,alive,female,postmenopausal,not reported,84,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-A8-A0A2,primary solid tumor,2a,alive,female,postmenopausal,not reported,66,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-A8-A0A4,primary solid tumor,2a,alive,female,postmenopausal,not reported,73,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-A8-A0A6,primary solid tumor,3c,alive,female,postmenopausal,not reported,64,positive,positive,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-A8-A0A7,primary solid tumor,2b,alive,female,postmenopausal,not reported,57,negative,negative,positive,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-A8-A0A9,primary solid tumor,2a,alive,female,postmenopausal,not reported,80,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-A8-A0AB,primary solid tumor,2a,alive,female,postmenopausal,not reported,54,positive,positive,positive,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-A8-A0AD,primary solid tumor,1,alive,female,postmenopausal,not reported,83,positive,positive,negative,absent,absent,mixed histology,Basal
+TCGA-AC-A23C,primary solid tumor,2b,alive,female,postmenopausal,white,62,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AC-A23E,primary solid tumor,2b,alive,female,not available,white,50,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AC-A23G,primary solid tumor,2a,alive,female,postmenopausal,white,76,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AC-A23H,primary solid tumor,2a,deceased,female,postmenopausal,white,90,positive,negative,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AC-A23H,solid tissue normal,2a,deceased,female,postmenopausal,white,90,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-AC-A2B8,primary solid tumor,2b,alive,female,postmenopausal,white,84,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AC-A2BK,primary solid tumor,3a,alive,female,postmenopausal,black or african american,78,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-AC-A2BM,primary solid tumor,2b,alive,female,not available,black or african american,41,positive,positive,not evaluated,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-AC-A2FB,primary solid tumor,2a,alive,female,not available,white,65,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AC-A2FB,solid tissue normal,2a,alive,female,not available,white,65,NA,NA,NA,NA,NA,infiltrating lobular carcinoma,NA
+TCGA-AC-A2FE,primary solid tumor,3c,deceased,female,postmenopausal,white,62,NA,NA,not evaluated,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AC-A2FF,primary solid tumor,2b,alive,female,not available,asian,40,NA,NA,not evaluated,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AC-A2FF,solid tissue normal,2b,alive,female,not available,asian,40,NA,NA,NA,NA,NA,infiltrating lobular carcinoma,NA
+TCGA-AC-A2FG,primary solid tumor,2b,alive,female,postmenopausal,white,79,positive,negative,not evaluated,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AC-A2FK,primary solid tumor,3c,alive,female,not available,white,45,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AC-A2FM,primary solid tumor,2b,deceased,female,postmenopausal,white,87,not evaluated,not evaluated,not evaluated,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AC-A2FM,solid tissue normal,2b,deceased,female,postmenopausal,white,87,NA,NA,NA,NA,NA,infiltrating lobular carcinoma,NA
+TCGA-AC-A2FO,primary solid tumor,2b,alive,female,postmenopausal,white,65,positive,negative,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AC-A2QH,primary solid tumor,2b,alive,female,postmenopausal,white,58,negative,negative,negative,NA,NA,metaplastic carcinoma,LumA
+TCGA-AC-A2QI,primary solid tumor,3a,alive,female,postmenopausal,white,76,positive,negative,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AC-A2QJ,primary solid tumor,3b,deceased,female,perimenopausal,white,48,negative,negative,negative,NA,NA,metaplastic carcinoma,Normal
+TCGA-AC-A3BB,primary solid tumor,3a,alive,female,not available,black or african american,46,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-AC-A3EH,primary solid tumor,3c,deceased,female,postmenopausal,white,79,positive,negative,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AC-A3HN,primary solid tumor,2b,alive,female,postmenopausal,white,87,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-AC-A3OD,primary solid tumor,2b,alive,female,postmenopausal,white,68,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AC-A3QP,primary solid tumor,2b,alive,female,postmenopausal,white,79,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-AC-A3QQ,primary solid tumor,1a,alive,female,perimenopausal,white,54,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AC-A3TM,primary solid tumor,3a,alive,female,perimenopausal,white,50,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AC-A3TN,primary solid tumor,2b,alive,female,postmenopausal,white,75,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AC-A3W5,primary solid tumor,2a,alive,female,not evaluated,black or african american,65,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AC-A3W6,primary solid tumor,3a,alive,female,postmenopausal,white,90,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-AC-A3W7,primary solid tumor,2b,alive,female,postmenopausal,white,66,positive,negative,negative,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-AC-A3YI,primary solid tumor,3c,alive,female,postmenopausal,white,74,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AC-A3YJ,primary solid tumor,2a,alive,female,postmenopausal,white,66,positive,positive,NA,NA,NA,other,LumB
+TCGA-AC-A4ZE,primary solid tumor,2b,alive,female,postmenopausal,white,63,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-AC-A5EH,primary solid tumor,2b,alive,female,not available,black or african american,76,positive,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-AC-A5XS,primary solid tumor,2a,alive,female,not available,white,74,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AC-A5XU,primary solid tumor,2b,alive,female,not available,black or african american,74,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-AC-A62V,primary solid tumor,4,deceased,male,not evaluated,black or african american,58,positive,positive,not evaluated,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-AC-A62X,primary solid tumor,2a,alive,female,postmenopausal,black or african american,72,positive,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-AC-A62Y,primary solid tumor,2b,alive,female,postmenopausal,white,79,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AC-A6IV,primary solid tumor,2b,alive,female,not available,white,47,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-AC-A6IW,primary solid tumor,2a,alive,female,postmenopausal,black or african american,73,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,Normal
+TCGA-AC-A6IX,primary solid tumor,3c,alive,female,perimenopausal,white,49,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AC-A6NO,primary solid tumor,2b,alive,female,unknown,black or african american,43,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-AC-A7VB,primary solid tumor,2a,alive,female,unknown,black or african american,51,positive,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,Her2
+TCGA-AC-A7VC,primary solid tumor,2b,alive,female,postmenopausal,white,56,negative,negative,negative,NA,NA,metaplastic carcinoma,LumA
+TCGA-AC-A8OP,primary solid tumor,1a,alive,female,postmenopausal,black or african american,72,positive,positive,indeterminate,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-AC-A8OQ,primary solid tumor,2b,alive,female,postmenopausal,black or african american,72,negative,negative,indeterminate,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-AC-A8OR,primary solid tumor,1a,alive,female,postmenopausal,white,75,positive,positive,negative,NA,NA,mucinous carcinoma,LumA
+TCGA-AC-A8OS,primary solid tumor,2a,alive,female,postmenopausal,white,71,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AN-A03X,primary solid tumor,2a,alive,female,postmenopausal,white,74,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-AN-A03Y,primary solid tumor,2a,alive,female,postmenopausal,white,66,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A041,primary solid tumor,2b,alive,female,premenopausal,white,29,positive,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A046,primary solid tumor,2a,alive,female,postmenopausal,white,68,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A049,primary solid tumor,2a,alive,female,postmenopausal,white,62,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-AN-A04A,primary solid tumor,3a,alive,female,perimenopausal,white,36,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A04C,primary solid tumor,2b,alive,female,postmenopausal,white,51,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A04D,primary solid tumor,2b,alive,female,postmenopausal,white,58,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0AJ,primary solid tumor,2b,alive,female,postmenopausal,white,79,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0AK,primary solid tumor,2a,alive,female,postmenopausal,white,76,positive,negative,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0AL,primary solid tumor,3b,alive,female,premenopausal,white,41,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0AM,primary solid tumor,2a,alive,female,postmenopausal,white,56,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-AN-A0AR,primary solid tumor,2a,alive,female,premenopausal,white,55,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0AS,primary solid tumor,3a,alive,female,postmenopausal,white,70,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0AT,primary solid tumor,2a,alive,female,postmenopausal,white,62,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0FD,primary solid tumor,2a,alive,female,postmenopausal,white,71,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-AN-A0FF,primary solid tumor,1a,alive,female,premenopausal,white,32,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-AN-A0FJ,primary solid tumor,4,alive,female,perimenopausal,white,59,positive,negative,positive,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-AN-A0FK,primary solid tumor,3b,alive,female,postmenopausal,white,88,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-AN-A0FL,primary solid tumor,2a,alive,female,postmenopausal,white,62,negative,negative,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0FN,primary solid tumor,1a,alive,female,postmenopausal,white,61,positive,positive,positive,absent,absent,infiltrating lobular carcinoma,Normal
+TCGA-AN-A0FS,primary solid tumor,1a,alive,female,perimenopausal,white,55,positive,negative,positive,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-AN-A0FT,primary solid tumor,2b,alive,female,postmenopausal,white,63,positive,positive,positive,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-AN-A0FV,primary solid tumor,2a,alive,female,postmenopausal,white,58,negative,negative,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-AN-A0FW,primary solid tumor,3a,alive,female,postmenopausal,white,67,positive,indeterminate,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0FX,primary solid tumor,2a,alive,female,postmenopausal,white,52,negative,negative,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0FY,primary solid tumor,1a,alive,female,postmenopausal,white,55,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-AN-A0FZ,primary solid tumor,3a,alive,female,premenopausal,white,45,positive,negative,positive,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-AN-A0G0,primary solid tumor,2a,alive,female,postmenopausal,white,56,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0XL,primary solid tumor,2a,alive,female,postmenopausal,white,61,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-AN-A0XN,primary solid tumor,3a,alive,female,postmenopausal,white,68,negative,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0XO,primary solid tumor,3a,alive,female,postmenopausal,white,59,positive,negative,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-AN-A0XP,primary solid tumor,3a,alive,female,postmenopausal,white,69,positive,positive,positive,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-AN-A0XR,primary solid tumor,3a,alive,female,postmenopausal,white,55,positive,negative,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-AN-A0XS,primary solid tumor,3a,alive,female,postmenopausal,white,63,negative,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-AN-A0XT,primary solid tumor,3a,alive,female,postmenopausal,white,54,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0XU,primary solid tumor,2a,alive,female,postmenopausal,white,54,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0XV,primary solid tumor,3a,alive,female,postmenopausal,white,67,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AN-A0XW,primary solid tumor,3a,alive,female,premenopausal,white,36,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AO-A03L,primary solid tumor,3a,alive,female,premenopausal,asian,34,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AO-A03M,primary solid tumor,1,alive,female,premenopausal,white,29,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-AO-A03N,primary solid tumor,2b,alive,female,postmenopausal,white,59,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-AO-A03O,primary solid tumor,2a,deceased,female,postmenopausal,black or african american,69,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-AO-A03P,primary solid tumor,2b,deceased,female,postmenopausal,black or african american,54,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-AO-A03R,primary solid tumor,2b,alive,female,postmenopausal,white,57,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-AO-A03T,primary solid tumor,2b,alive,female,premenopausal,white,42,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AO-A03U,primary solid tumor,1,deceased,female,premenopausal,white,31,negative,negative,negative,NA,NA,other,LumA
+TCGA-AO-A03V,primary solid tumor,1,alive,female,perimenopausal,white,41,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-AO-A0J2,primary solid tumor,1a,alive,female,premenopausal,white,41,negative,negative,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AO-A0J3,primary solid tumor,2b,alive,female,postmenopausal,white,67,positive,positive,equivocal,present,absent,other,LumB
+TCGA-AO-A0J4,primary solid tumor,1a,alive,female,premenopausal,black or african american,41,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AO-A0J5,primary solid tumor,4,deceased,female,premenopausal,white,48,positive,negative,equivocal,present,present,other,LumB
+TCGA-AO-A0J6,primary solid tumor,2a,alive,female,postmenopausal,white,61,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AO-A0J7,primary solid tumor,2b,alive,female,postmenopausal,white,71,positive,positive,negative,present,absent,other,Basal
+TCGA-AO-A0J8,primary solid tumor,2a,alive,female,postmenopausal,white,61,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,Normal
+TCGA-AO-A0J9,primary solid tumor,3c,alive,female,postmenopausal,white,61,positive,positive,not evaluated,present,absent,infiltrating lobular carcinoma,LumB
+TCGA-AO-A0JA,primary solid tumor,3c,alive,female,premenopausal,black or african american,36,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AO-A0JB,primary solid tumor,3a,alive,female,premenopausal,white,50,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-AO-A0JC,primary solid tumor,2a,alive,female,postmenopausal,white,64,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-AO-A0JD,primary solid tumor,3a,alive,female,postmenopausal,white,59,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-AO-A0JE,primary solid tumor,3a,alive,female,postmenopausal,black or african american,53,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-AO-A0JF,primary solid tumor,2a,alive,female,postmenopausal,white,68,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AO-A0JG,primary solid tumor,3a,alive,female,postmenopausal,white,49,positive,positive,negative,present,absent,other,LumA
+TCGA-AO-A0JI,primary solid tumor,2a,alive,female,postmenopausal,white,56,positive,negative,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-AO-A0JJ,primary solid tumor,2b,alive,female,postmenopausal,white,54,positive,positive,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-AO-A0JL,primary solid tumor,3a,alive,female,postmenopausal,white,59,negative,negative,negative,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-AO-A0JM,primary solid tumor,2b,alive,female,premenopausal,not reported,40,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-AO-A124,primary solid tumor,2a,alive,female,premenopausal,white,38,negative,negative,negative,absent,absent,other,LumA
+TCGA-AO-A125,primary solid tumor,2a,alive,female,postmenopausal,black or african american,72,positive,positive,negative,absent,absent,other,Basal
+TCGA-AO-A126,primary solid tumor,2a,alive,female,premenopausal,asian,39,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-AO-A128,primary solid tumor,2a,alive,female,postmenopausal,white,61,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-AO-A129,primary solid tumor,2b,alive,female,premenopausal,white,29,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AO-A12A,primary solid tumor,2a,alive,female,premenopausal,white,47,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AO-A12B,primary solid tumor,2a,alive,female,postmenopausal,white,63,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-AO-A12C,primary solid tumor,2b,alive,female,premenopausal,white,42,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AO-A12D,primary solid tumor,2a,alive,female,premenopausal,white,43,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AO-A12E,primary solid tumor,2b,alive,female,premenopausal,white,51,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumB
+TCGA-AO-A12F,primary solid tumor,2a,alive,female,premenopausal,white,36,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-AO-A12G,primary solid tumor,2a,alive,female,postmenopausal,white,75,positive,positive,positive,absent,absent,other,LumA
+TCGA-AO-A12H,primary solid tumor,2a,alive,female,premenopausal,black or african american,69,positive,positive,negative,absent,absent,other,LumA
+TCGA-AO-A1KO,primary solid tumor,2b,alive,female,premenopausal,white,46,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-AO-A1KP,primary solid tumor,2a,alive,female,postmenopausal,white,77,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-AO-A1KQ,primary solid tumor,3b,alive,male,not available,white,84,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-AO-A1KR,primary solid tumor,2a,alive,female,premenopausal,white,51,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-AO-A1KS,primary solid tumor,2a,alive,female,postmenopausal,white,69,positive,positive,equivocal,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-AO-A1KT,primary solid tumor,2a,alive,female,postmenopausal,white,78,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-AQ-A04H,primary solid tumor,3a,alive,female,postmenopausal,white,61,positive,positive,indeterminate,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-AQ-A04J,primary solid tumor,2a,alive,female,premenopausal,white,45,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AQ-A04L,primary solid tumor,2a,alive,female,perimenopausal,white,48,positive,negative,positive,NA,NA,infiltrating ductal carcinoma,Normal
+TCGA-AQ-A0Y5,primary solid tumor,3a,deceased,female,postmenopausal,white,70,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-AQ-A1H2,primary solid tumor,3a,alive,female,postmenopausal,white,84,positive,positive,indeterminate,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AQ-A1H3,primary solid tumor,3c,alive,female,premenopausal,white,49,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-AQ-A54N,primary solid tumor,2a,alive,female,postmenopausal,black or african american,51,negative,negative,equivocal,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-AQ-A54O,primary solid tumor,2a,alive,male,not available,black or african american,51,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-AQ-A7U7,primary solid tumor,3a,deceased,female,postmenopausal,white,55,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-AR-A0TP,primary solid tumor,2a,alive,female,premenopausal,white,43,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A0TQ,primary solid tumor,3a,alive,female,premenopausal,white,27,positive,negative,equivocal,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-AR-A0TR,primary solid tumor,2b,deceased,female,postmenopausal,white,68,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-AR-A0TS,primary solid tumor,2b,alive,female,premenopausal,white,46,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A0TT,primary solid tumor,3a,alive,female,premenopausal,black or african american,53,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A0TU,primary solid tumor,2a,alive,female,premenopausal,not reported,35,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A0TV,primary solid tumor,2a,alive,female,postmenopausal,not reported,66,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A0TW,primary solid tumor,3a,alive,female,premenopausal,white,50,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A0TX,primary solid tumor,2a,alive,female,postmenopausal,not reported,64,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A0TY,primary solid tumor,2a,deceased,female,postmenopausal,white,54,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-AR-A0TZ,primary solid tumor,NA,deceased,female,premenopausal,white,43,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-AR-A0U0,primary solid tumor,2b,alive,female,postmenopausal,white,73,negative,negative,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A0U2,primary solid tumor,3a,deceased,female,premenopausal,white,47,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-AR-A0U3,primary solid tumor,2b,alive,female,postmenopausal,white,59,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A0U4,primary solid tumor,2a,alive,female,premenopausal,white,54,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-AR-A1AH,primary solid tumor,2b,alive,female,postmenopausal,white,51,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A1AI,primary solid tumor,2a,alive,female,postmenopausal,white,47,negative,negative,equivocal,absent,absent,medullary carcinoma,LumA
+TCGA-AR-A1AJ,primary solid tumor,1,alive,female,postmenopausal,white,83,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A1AK,primary solid tumor,1,alive,female,postmenopausal,white,70,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-AR-A1AL,primary solid tumor,3a,alive,female,postmenopausal,white,60,positive,positive,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-AR-A1AM,primary solid tumor,3a,alive,female,postmenopausal,white,52,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AR-A1AN,primary solid tumor,2a,alive,female,premenopausal,white,46,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-AR-A1AO,primary solid tumor,2a,alive,female,premenopausal,white,47,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A1AP,primary solid tumor,1,alive,female,postmenopausal,white,80,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-AR-A1AQ,primary solid tumor,2a,alive,female,postmenopausal,white,49,negative,negative,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A1AR,primary solid tumor,3a,deceased,female,postmenopausal,white,50,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A1AS,primary solid tumor,2b,alive,female,postmenopausal,asian,54,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-AR-A1AT,primary solid tumor,2a,deceased,female,postmenopausal,white,62,positive,positive,positive,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-AR-A1AU,primary solid tumor,3a,alive,female,premenopausal,white,39,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A1AV,primary solid tumor,2b,alive,male,not available,white,68,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-AR-A1AW,primary solid tumor,2a,alive,female,postmenopausal,white,65,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A1AX,primary solid tumor,1,alive,female,postmenopausal,white,64,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A1AY,primary solid tumor,1,alive,female,postmenopausal,white,65,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A24H,primary solid tumor,2a,alive,female,postmenopausal,white,65,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-AR-A24K,primary solid tumor,2a,alive,female,premenopausal,white,46,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A24L,primary solid tumor,2b,deceased,female,premenopausal,white,26,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A24M,primary solid tumor,3a,alive,female,premenopausal,white,38,positive,positive,negative,present,absent,mixed histology,LumA
+TCGA-AR-A24N,primary solid tumor,1,alive,female,perimenopausal,white,54,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A24O,primary solid tumor,3a,alive,female,premenopausal,white,43,positive,positive,negative,present,absent,mixed histology,LumA
+TCGA-AR-A24P,primary solid tumor,1,alive,female,postmenopausal,white,47,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A24Q,primary solid tumor,2b,alive,female,postmenopausal,white,49,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A24R,primary solid tumor,3a,alive,female,premenopausal,white,45,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A24S,primary solid tumor,1,alive,female,postmenopausal,white,61,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A24T,primary solid tumor,3c,alive,female,premenopausal,white,46,positive,positive,equivocal,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-AR-A24U,primary solid tumor,2a,alive,female,premenopausal,white,47,negative,negative,positive,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-AR-A24V,primary solid tumor,2b,alive,female,perimenopausal,white,52,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-AR-A24W,primary solid tumor,2b,alive,female,postmenopausal,white,55,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-AR-A24X,primary solid tumor,2a,alive,female,premenopausal,white,52,positive,positive,equivocal,absent,absent,mixed histology,LumB
+TCGA-AR-A24Z,primary solid tumor,2a,alive,female,postmenopausal,white,57,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-AR-A250,primary solid tumor,2a,alive,female,postmenopausal,white,58,positive,negative,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A251,primary solid tumor,3a,alive,female,premenopausal,white,51,positive,negative,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A252,primary solid tumor,1,alive,female,premenopausal,white,50,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A254,primary solid tumor,3a,alive,female,premenopausal,white,50,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A255,primary solid tumor,1,alive,female,postmenopausal,white,62,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A256,primary solid tumor,2a,deceased,female,premenopausal,white,45,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-AR-A2LE,primary solid tumor,1,alive,female,postmenopausal,white,69,positive,negative,not evaluated,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-AR-A2LH,primary solid tumor,3,deceased,female,postmenopausal,white,55,negative,negative,equivocal,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AR-A2LJ,primary solid tumor,3a,alive,female,premenopausal,white,40,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-AR-A2LK,primary solid tumor,3,deceased,female,postmenopausal,white,62,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-AR-A2LL,primary solid tumor,2b,alive,female,postmenopausal,white,70,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,Her2
+TCGA-AR-A2LM,primary solid tumor,2,alive,female,premenopausal,white,49,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AR-A2LN,primary solid tumor,2a,alive,female,postmenopausal,white,65,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AR-A2LO,primary solid tumor,2b,alive,female,premenopausal,white,46,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-AR-A2LQ,primary solid tumor,2b,alive,female,postmenopausal,white,59,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-AR-A2LR,primary solid tumor,1,alive,female,postmenopausal,white,49,negative,negative,negative,NA,NA,metaplastic carcinoma,LumA
+TCGA-AR-A5QM,primary solid tumor,2a,alive,female,postmenopausal,white,62,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-AR-A5QN,primary solid tumor,3c,alive,female,postmenopausal,white,68,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AR-A5QP,primary solid tumor,2b,alive,female,postmenopausal,white,54,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-AR-A5QQ,primary solid tumor,3a,deceased,female,postmenopausal,white,68,negative,negative,negative,NA,NA,other,Normal
+TCGA-B6-A0I1,primary solid tumor,2a,deceased,female,postmenopausal,black or african american,73,negative,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0I2,primary solid tumor,1a,alive,female,indeterminate,white,45,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0I5,primary solid tumor,2b,alive,female,indeterminate,white,49,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-B6-A0I6,primary solid tumor,2a,deceased,female,indeterminate,black or african american,49,negative,negative,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0I8,primary solid tumor,X,deceased,female,indeterminate,white,46,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-B6-A0I9,primary solid tumor,4,deceased,female,indeterminate,white,62,indeterminate,positive,not evaluated,absent,present,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0IA,primary solid tumor,2a,alive,female,indeterminate,white,51,positive,positive,not evaluated,absent,absent,other,Basal
+TCGA-B6-A0IB,primary solid tumor,4,deceased,female,indeterminate,white,64,positive,positive,not evaluated,present,present,infiltrating ductal carcinoma,LumB
+TCGA-B6-A0IC,primary solid tumor,X,deceased,female,postmenopausal,white,90,positive,positive,not evaluated,absent,NA,other,Basal
+TCGA-B6-A0IE,primary solid tumor,3a,deceased,female,premenopausal,black or african american,38,negative,negative,not evaluated,present,absent,mixed histology,LumA
+TCGA-B6-A0IG,primary solid tumor,2b,deceased,female,indeterminate,white,50,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-B6-A0IH,primary solid tumor,3a,deceased,female,postmenopausal,white,81,positive,positive,not evaluated,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-B6-A0IJ,primary solid tumor,2b,alive,female,indeterminate,black or african american,42,positive,positive,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0IK,primary solid tumor,3b,deceased,female,indeterminate,white,63,negative,negative,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0IM,primary solid tumor,2b,deceased,female,postmenopausal,black or african american,75,positive,positive,not evaluated,absent,absent,other,Her2
+TCGA-B6-A0IN,primary solid tumor,X,deceased,female,indeterminate,white,45,positive,negative,not evaluated,absent,NA,other,Basal
+TCGA-B6-A0IO,primary solid tumor,2a,alive,female,indeterminate,white,66,positive,indeterminate,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0IP,primary solid tumor,1a,deceased,female,postmenopausal,white,74,positive,positive,not evaluated,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-B6-A0IQ,primary solid tumor,3a,alive,female,indeterminate,white,40,negative,negative,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0RE,primary solid tumor,X,alive,female,indeterminate,black or african american,61,negative,negative,not evaluated,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-B6-A0RG,primary solid tumor,2b,alive,female,indeterminate,white,26,negative,negative,not evaluated,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-B6-A0RH,primary solid tumor,2a,deceased,female,indeterminate,black or african american,51,positive,positive,not evaluated,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-B6-A0RI,primary solid tumor,3b,alive,female,indeterminate,white,44,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-B6-A0RL,primary solid tumor,2a,deceased,female,not available,black or african american,60,positive,positive,not evaluated,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-B6-A0RM,primary solid tumor,X,deceased,female,indeterminate,black or african american,57,positive,positive,not evaluated,absent,NA,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0RN,primary solid tumor,1a,alive,female,postmenopausal,white,60,negative,negative,not evaluated,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-B6-A0RO,primary solid tumor,3b,alive,female,postmenopausal,white,71,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-B6-A0RP,primary solid tumor,NA,deceased,female,postmenopausal,white,73,positive,positive,not evaluated,present,absent,mixed histology,LumB
+TCGA-B6-A0RQ,primary solid tumor,2b,deceased,female,postmenopausal,white,68,positive,positive,not evaluated,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-B6-A0RS,primary solid tumor,2a,deceased,female,indeterminate,white,38,negative,negative,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0RT,primary solid tumor,3a,alive,female,indeterminate,white,39,negative,negative,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0RU,primary solid tumor,1a,alive,female,indeterminate,white,40,negative,negative,not evaluated,absent,absent,other,LumA
+TCGA-B6-A0RV,primary solid tumor,3a,alive,female,indeterminate,white,42,positive,positive,not evaluated,present,absent,mixed histology,LumB
+TCGA-B6-A0WS,primary solid tumor,X,deceased,female,indeterminate,black or african american,58,positive,positive,not evaluated,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-B6-A0WT,primary solid tumor,2b,alive,female,postmenopausal,white,61,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-B6-A0WV,primary solid tumor,2b,deceased,female,postmenopausal,white,67,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0WW,primary solid tumor,X,deceased,female,indeterminate,black or african american,58,positive,positive,not evaluated,present,NA,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0WX,primary solid tumor,3a,deceased,female,premenopausal,black or african american,40,negative,negative,not evaluated,present,absent,other,LumA
+TCGA-B6-A0WY,primary solid tumor,3a,deceased,female,premenopausal,white,40,positive,negative,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0WZ,primary solid tumor,2,alive,female,indeterminate,black or african american,50,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-B6-A0X0,primary solid tumor,1,deceased,female,indeterminate,white,54,positive,positive,not evaluated,absent,absent,other,Basal
+TCGA-B6-A0X1,primary solid tumor,NA,deceased,female,indeterminate,white,48,negative,negative,not evaluated,present,present,infiltrating ductal carcinoma,LumB
+TCGA-B6-A0X4,primary solid tumor,2b,deceased,female,postmenopausal,white,62,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-B6-A0X5,primary solid tumor,2b,deceased,female,postmenopausal,black or african american,61,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-B6-A0X7,primary solid tumor,X,deceased,female,postmenopausal,white,62,positive,positive,not evaluated,absent,NA,mixed histology,LumA
+TCGA-B6-A1KC,primary solid tumor,2b,alive,female,postmenopausal,white,67,positive,negative,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-B6-A1KF,primary solid tumor,2b,alive,female,postmenopausal,white,68,negative,negative,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-B6-A1KI,primary solid tumor,1,alive,female,postmenopausal,white,63,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-B6-A1KN,primary solid tumor,3b,alive,female,postmenopausal,white,57,negative,negative,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-B6-A2IU,primary solid tumor,2a,alive,female,indeterminate,white,62,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-B6-A3ZX,primary solid tumor,4,deceased,female,unknown,black or african american,50,negative,negative,negative,NA,NA,mixed histology,LumA
+TCGA-B6-A400,primary solid tumor,3a,alive,female,unknown,black or african american,43,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-B6-A401,primary solid tumor,2a,alive,female,unknown,black or african american,47,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-B6-A402,primary solid tumor,1,alive,female,unknown,black or african american,47,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,Normal
+TCGA-B6-A408,primary solid tumor,3c,alive,female,unknown,black or african american,55,positive,positive,equivocal,NA,NA,mixed histology,Basal
+TCGA-B6-A409,primary solid tumor,3a,deceased,female,premenopausal,black or african american,44,negative,negative,equivocal,NA,NA,infiltrating ductal carcinoma,Normal
+TCGA-B6-A40B,primary solid tumor,1,alive,female,postmenopausal,white,76,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-B6-A40C,primary solid tumor,2b,alive,female,unknown,white,51,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-BH-A0AU,primary solid tumor,2a,alive,female,premenopausal,white,45,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0AU,solid tissue normal,2a,alive,female,premenopausal,white,45,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0AV,primary solid tumor,1,alive,female,not available,black or african american,52,negative,negative,NA,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0AW,primary solid tumor,2a,alive,female,postmenopausal,white,56,positive,negative,positive,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-BH-A0AY,primary solid tumor,2a,alive,female,postmenopausal,white,62,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-BH-A0AY,solid tissue normal,2a,alive,female,postmenopausal,white,62,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0AZ,primary solid tumor,3a,alive,female,premenopausal,white,47,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0AZ,solid tissue normal,3a,alive,female,premenopausal,white,47,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0B0,primary solid tumor,1,alive,female,perimenopausal,black or african american,56,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-BH-A0B1,primary solid tumor,2b,alive,female,postmenopausal,white,66,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0B3,primary solid tumor,2b,alive,female,postmenopausal,white,53,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0B3,solid tissue normal,2b,alive,female,postmenopausal,white,53,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0B4,primary solid tumor,3a,alive,male,not available,white,65,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0B5,primary solid tumor,3a,alive,female,premenopausal,white,40,positive,positive,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-BH-A0B5,solid tissue normal,3a,alive,female,premenopausal,white,40,NA,NA,NA,NA,NA,infiltrating lobular carcinoma,NA
+TCGA-BH-A0B6,primary solid tumor,1,alive,female,not available,white,47,positive,positive,positive,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0B7,primary solid tumor,2b,alive,female,premenopausal,white,42,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0B7,solid tissue normal,2b,alive,female,premenopausal,white,42,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0B8,primary solid tumor,1,alive,female,postmenopausal,white,64,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0B8,solid tissue normal,1,alive,female,postmenopausal,white,64,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0B9,primary solid tumor,1a,alive,female,premenopausal,white,44,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0BA,primary solid tumor,3c,alive,female,premenopausal,white,51,positive,positive,negative,present,absent,mixed histology,LumA
+TCGA-BH-A0BA,solid tissue normal,3c,alive,female,premenopausal,white,51,NA,NA,NA,NA,NA,mixed histology,NA
+TCGA-BH-A0BC,primary solid tumor,3c,alive,female,postmenopausal,white,60,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0BC,solid tissue normal,3c,alive,female,postmenopausal,white,60,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0BD,primary solid tumor,2a,alive,female,premenopausal,white,47,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0BF,primary solid tumor,2b,deceased,female,postmenopausal,white,56,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0BG,primary solid tumor,1,alive,female,postmenopausal,white,73,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0BJ,primary solid tumor,2b,alive,female,premenopausal,white,41,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0BJ,solid tissue normal,2b,alive,female,premenopausal,white,41,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0BL,primary solid tumor,1,alive,female,premenopausal,white,35,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0BM,primary solid tumor,2b,alive,female,postmenopausal,white,54,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0BM,solid tissue normal,2b,alive,female,postmenopausal,white,54,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0BO,primary solid tumor,1,alive,female,premenopausal,white,54,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0BP,primary solid tumor,1,deceased,female,postmenopausal,white,76,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0BQ,primary solid tumor,1,alive,female,premenopausal,white,39,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0BQ,solid tissue normal,1,alive,female,premenopausal,white,39,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0BR,primary solid tumor,1,alive,female,postmenopausal,white,59,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0BS,primary solid tumor,3a,alive,female,postmenopausal,white,55,positive,positive,NA,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0BS,solid tissue normal,3a,alive,female,postmenopausal,white,55,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0BT,primary solid tumor,2a,alive,female,not available,white,56,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0BT,solid tissue normal,2a,alive,female,not available,white,56,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0BV,primary solid tumor,2b,alive,female,postmenopausal,white,78,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0BV,solid tissue normal,2b,alive,female,postmenopausal,white,78,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0BW,primary solid tumor,1,alive,female,postmenopausal,black or african american,71,negative,negative,NA,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0BW,solid tissue normal,1,alive,female,postmenopausal,black or african american,71,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0BZ,primary solid tumor,3a,alive,female,postmenopausal,white,59,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0BZ,solid tissue normal,3a,alive,female,postmenopausal,white,59,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0C0,primary solid tumor,2a,alive,female,postmenopausal,white,62,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0C0,solid tissue normal,2a,alive,female,postmenopausal,white,62,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0C1,primary solid tumor,3a,deceased,female,postmenopausal,white,61,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-BH-A0C3,primary solid tumor,1,alive,female,premenopausal,white,47,positive,negative,negative,absent,absent,mixed histology,LumA
+TCGA-BH-A0C3,solid tissue normal,1,alive,female,perimenopausal,white,47,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0C7,primary solid tumor,2b,alive,female,not available,white,48,positive,negative,NA,NA,NA,infiltrating ductal carcinoma,Normal
+TCGA-BH-A0DD,primary solid tumor,2b,alive,male,NA,white,58,positive,positive,positive,present,absent,NA,LumB
+TCGA-BH-A0DD,solid tissue normal,2b,alive,male,NA,white,58,NA,NA,NA,NA,NA,NA,NA
+TCGA-BH-A0DE,primary solid tumor,2a,alive,female,postmenopausal,white,62,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0DG,primary solid tumor,2a,alive,female,premenopausal,black or african american,30,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0DG,solid tissue normal,2a,alive,female,premenopausal,black or african american,30,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0DH,primary solid tumor,2b,alive,female,postmenopausal,white,63,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0DH,solid tissue normal,2b,alive,female,postmenopausal,white,63,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0DI,primary solid tumor,2b,alive,female,postmenopausal,white,63,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0DK,primary solid tumor,2a,alive,female,premenopausal,white,49,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0DK,solid tissue normal,2a,alive,female,premenopausal,white,49,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0DL,primary solid tumor,2a,alive,female,postmenopausal,white,64,positive,negative,negative,absent,absent,other,Normal
+TCGA-BH-A0DL,solid tissue normal,2a,alive,female,postmenopausal,white,64,NA,NA,NA,NA,NA,other,NA
+TCGA-BH-A0DO,primary solid tumor,1,alive,female,postmenopausal,white,78,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0DO,solid tissue normal,1,alive,female,postmenopausal,white,78,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0DP,primary solid tumor,2b,alive,female,postmenopausal,white,60,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-BH-A0DP,solid tissue normal,2b,alive,female,postmenopausal,white,60,NA,NA,NA,NA,NA,infiltrating lobular carcinoma,NA
+TCGA-BH-A0DQ,primary solid tumor,2b,alive,female,premenopausal,white,42,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0DQ,solid tissue normal,2b,alive,female,premenopausal,white,42,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0DS,primary solid tumor,3a,alive,female,postmenopausal,white,71,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-BH-A0DT,primary solid tumor,2a,alive,female,premenopausal,white,41,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0DT,solid tissue normal,2a,alive,female,premenopausal,white,41,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0DV,primary solid tumor,3a,alive,female,perimenopausal,white,54,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0DV,solid tissue normal,3a,alive,female,perimenopausal,white,54,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0DX,primary solid tumor,1,alive,female,postmenopausal,white,62,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0DZ,primary solid tumor,2b,alive,female,premenopausal,white,43,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0DZ,solid tissue normal,2b,alive,female,premenopausal,white,43,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0E0,primary solid tumor,3c,alive,female,premenopausal,white,38,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0E0,solid tissue normal,3c,alive,female,premenopausal,white,38,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0E1,primary solid tumor,2b,alive,female,perimenopausal,white,52,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0E1,solid tissue normal,2b,alive,female,perimenopausal,white,52,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0E2,primary solid tumor,3a,alive,female,premenopausal,black or african american,49,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0E6,primary solid tumor,1a,alive,female,postmenopausal,white,69,negative,negative,equivocal,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-BH-A0E7,primary solid tumor,2b,alive,female,postmenopausal,white,79,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-BH-A0E9,primary solid tumor,2b,alive,female,postmenopausal,white,53,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-BH-A0EA,primary solid tumor,2a,deceased,female,postmenopausal,white,72,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0EB,primary solid tumor,1a,alive,female,postmenopausal,white,69,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-BH-A0EE,primary solid tumor,2b,alive,female,postmenopausal,white,68,negative,negative,positive,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-BH-A0EI,primary solid tumor,2a,alive,female,perimenopausal,white,51,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0GY,primary solid tumor,2a,alive,female,postmenopausal,white,67,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-BH-A0GZ,primary solid tumor,2a,alive,female,postmenopausal,white,62,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0H0,primary solid tumor,1a,alive,female,postmenopausal,white,69,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-BH-A0H3,primary solid tumor,1,alive,female,premenopausal,white,46,positive,positive,NA,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0H5,primary solid tumor,1,alive,female,postmenopausal,white,45,positive,positive,NA,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0H5,solid tissue normal,1,alive,female,postmenopausal,white,45,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0H6,primary solid tumor,1,alive,female,postmenopausal,white,82,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-BH-A0H7,primary solid tumor,3a,alive,female,postmenopausal,white,65,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0H7,solid tissue normal,3a,alive,female,postmenopausal,white,65,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0H9,primary solid tumor,2a,alive,female,postmenopausal,white,69,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-BH-A0H9,solid tissue normal,2a,alive,female,postmenopausal,white,69,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0HA,primary solid tumor,1,alive,female,premenopausal,white,31,positive,positive,NA,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-BH-A0HA,solid tissue normal,1,alive,female,premenopausal,white,31,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0HB,primary solid tumor,1a,alive,female,postmenopausal,white,55,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0HF,primary solid tumor,1a,alive,female,postmenopausal,white,77,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0HI,primary solid tumor,1a,alive,female,postmenopausal,white,78,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-BH-A0HK,primary solid tumor,2b,alive,female,postmenopausal,white,81,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0HK,solid tissue normal,2b,alive,female,postmenopausal,white,81,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A0HL,primary solid tumor,2b,alive,female,postmenopausal,white,56,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0HN,primary solid tumor,1a,alive,female,postmenopausal,white,67,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0HO,primary solid tumor,2a,alive,female,premenopausal,white,48,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0HP,primary solid tumor,3a,alive,female,postmenopausal,white,65,positive,negative,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-BH-A0HQ,primary solid tumor,2a,alive,female,postmenopausal,white,56,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-BH-A0HU,primary solid tumor,1a,alive,female,perimenopausal,white,52,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-BH-A0HW,primary solid tumor,1a,alive,female,postmenopausal,asian,62,positive,negative,equivocal,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-BH-A0HX,primary solid tumor,2b,alive,female,postmenopausal,white,54,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0HY,primary solid tumor,1,alive,female,postmenopausal,white,60,positive,negative,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0RX,primary solid tumor,2a,alive,female,postmenopausal,white,59,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0W3,primary solid tumor,2a,alive,female,indeterminate,white,58,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0W4,primary solid tumor,2a,alive,female,not available,white,46,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0W5,primary solid tumor,2a,alive,female,not available,white,77,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A0W7,primary solid tumor,1,alive,female,not available,white,49,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A0WA,primary solid tumor,1,alive,female,not available,white,82,negative,negative,negative,absent,absent,not available,LumA
+TCGA-BH-A18F,primary solid tumor,2a,alive,female,perimenopausal,white,50,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A18G,primary solid tumor,1a,alive,female,postmenopausal,white,81,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-BH-A18H,primary solid tumor,1a,alive,female,postmenopausal,white,63,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-BH-A18I,primary solid tumor,2a,alive,female,postmenopausal,white,53,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A18J,primary solid tumor,4,deceased,female,not available,white,56,positive,positive,negative,present,present,infiltrating ductal carcinoma,LumB
+TCGA-BH-A18J,solid tissue normal,4,deceased,female,not available,white,56,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A18K,primary solid tumor,1,deceased,female,not available,white,46,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-BH-A18K,solid tissue normal,1,deceased,female,not available,white,46,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A18L,primary solid tumor,3a,deceased,female,not available,white,50,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A18L,solid tissue normal,3a,deceased,female,not available,white,50,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A18M,primary solid tumor,3a,deceased,female,not available,white,39,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A18M,solid tissue normal,3a,deceased,female,not available,white,39,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A18N,primary solid tumor,2a,deceased,female,not available,white,88,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A18N,solid tissue normal,2a,deceased,female,not available,white,88,positive,negative,positive,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A18P,primary solid tumor,1,deceased,female,not available,white,60,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-BH-A18P,solid tissue normal,1,deceased,female,not available,white,60,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A18Q,primary solid tumor,2b,deceased,female,not available,white,56,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A18Q,solid tissue normal,2b,deceased,female,not available,white,56,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A18R,primary solid tumor,2a,deceased,female,not available,white,50,indeterminate,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A18R,solid tissue normal,2a,deceased,female,not available,white,50,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A18S,primary solid tumor,1,deceased,female,postmenopausal,white,79,positive,positive,negative,absent,absent,mucinous carcinoma,LumA
+TCGA-BH-A18S,solid tissue normal,1,deceased,female,postmenopausal,white,79,NA,NA,NA,NA,NA,mucinous carcinoma,NA
+TCGA-BH-A18T,primary solid tumor,2a,deceased,female,postmenopausal,white,70,negative,negative,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A18U,primary solid tumor,3a,deceased,female,postmenopausal,white,72,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A18U,solid tissue normal,3a,deceased,female,postmenopausal,white,72,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A18V,primary solid tumor,2b,deceased,female,not available,white,48,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A18V,solid tissue normal,2b,deceased,female,not available,white,48,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1EN,primary solid tumor,2a,deceased,female,postmenopausal,white,78,negative,negative,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A1EN,solid tissue normal,2a,deceased,female,postmenopausal,white,78,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1EO,primary solid tumor,2a,deceased,female,postmenopausal,white,68,positive,positive,negative,present,absent,mixed histology,LumA
+TCGA-BH-A1EO,solid tissue normal,2a,deceased,female,postmenopausal,white,68,NA,NA,NA,NA,NA,mixed histology,NA
+TCGA-BH-A1ES,primary solid tumor,2b,deceased,female,premenopausal,white,35,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A1ET,primary solid tumor,1,deceased,female,not available,white,55,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A1ET,solid tissue normal,1,deceased,female,not available,white,55,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1EU,primary solid tumor,1,deceased,female,postmenopausal,white,83,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-BH-A1EU,solid tissue normal,1,deceased,female,postmenopausal,white,83,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1EV,primary solid tumor,3a,deceased,female,not available,white,45,positive,positive,positive,NA,NA,infiltrating ductal carcinoma,Normal
+TCGA-BH-A1EV,solid tissue normal,3a,deceased,female,not available,white,45,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1EW,primary solid tumor,2a,deceased,female,premenopausal,white,38,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A1EW,solid tissue normal,2a,deceased,female,premenopausal,white,38,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1EX,primary solid tumor,2b,deceased,female,postmenopausal,white,67,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A1EY,primary solid tumor,2a,deceased,female,postmenopausal,white,79,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-BH-A1F0,primary solid tumor,2a,deceased,female,postmenopausal,white,80,negative,indeterminate,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A1F0,solid tissue normal,2a,deceased,female,postmenopausal,white,80,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1F2,primary solid tumor,3b,deceased,female,not available,white,53,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A1F2,solid tissue normal,3b,deceased,female,not available,white,53,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1F5,primary solid tumor,2a,deceased,female,not available,white,62,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-BH-A1F6,primary solid tumor,NA,deceased,female,not available,white,51,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-BH-A1F6,solid tissue normal,NA,deceased,female,not available,white,51,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1F8,primary solid tumor,3b,deceased,female,postmenopausal,white,90,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A1F8,solid tissue normal,3b,deceased,female,postmenopausal,white,90,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1FB,primary solid tumor,2b,deceased,female,postmenopausal,white,60,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A1FB,solid tissue normal,2b,deceased,female,postmenopausal,white,60,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1FC,primary solid tumor,2a,deceased,female,postmenopausal,black or african american,78,negative,negative,negative,present,absent,medullary carcinoma,LumB
+TCGA-BH-A1FC,solid tissue normal,2a,deceased,female,postmenopausal,black or african american,78,NA,NA,NA,NA,NA,medullary carcinoma,NA
+TCGA-BH-A1FD,primary solid tumor,1,deceased,female,postmenopausal,white,68,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-BH-A1FD,solid tissue normal,1,deceased,female,postmenopausal,white,68,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1FE,primary solid tumor,2b,deceased,female,not available,white,31,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A1FE,solid tissue normal,2b,deceased,female,not available,white,31,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1FG,primary solid tumor,1,deceased,female,postmenopausal,white,88,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-BH-A1FG,solid tissue normal,1,deceased,female,postmenopausal,white,88,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1FH,primary solid tumor,4,deceased,female,not available,white,47,positive,negative,not evaluated,present,present,infiltrating ductal carcinoma,LumA
+TCGA-BH-A1FH,solid tissue normal,4,deceased,female,not available,white,47,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1FJ,primary solid tumor,3a,deceased,female,not available,white,66,negative,positive,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A1FJ,solid tissue normal,3a,deceased,female,not available,white,66,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1FL,primary solid tumor,2b,deceased,female,not available,white,69,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-BH-A1FM,primary solid tumor,3a,deceased,female,not available,white,44,positive,negative,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A1FM,solid tissue normal,3a,deceased,female,not available,white,44,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1FN,primary solid tumor,2a,deceased,female,not available,white,34,positive,positive,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A1FN,solid tissue normal,2a,deceased,female,not available,white,34,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A1FR,primary solid tumor,3b,deceased,female,not available,white,73,positive,positive,not evaluated,present,absent,other,LumA
+TCGA-BH-A1FR,solid tissue normal,3b,deceased,female,not available,white,NA,NA,NA,NA,NA,NA,other,NA
+TCGA-BH-A1FU,primary solid tumor,1a,deceased,female,not available,white,44,negative,negative,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-BH-A1FU,solid tissue normal,1a,deceased,female,not available,white,44,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A201,primary solid tumor,1a,alive,female,postmenopausal,white,64,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-BH-A202,primary solid tumor,2,alive,female,postmenopausal,white,60,positive,positive,positive,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-BH-A203,primary solid tumor,2b,deceased,female,postmenopausal,white,78,not evaluated,not evaluated,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-BH-A203,solid tissue normal,2b,deceased,female,postmenopausal,white,78,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A204,primary solid tumor,2b,deceased,female,postmenopausal,white,80,not evaluated,not evaluated,not evaluated,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-BH-A204,solid tissue normal,2b,deceased,female,postmenopausal,white,80,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A208,primary solid tumor,2b,deceased,female,not available,white,48,NA,not evaluated,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-BH-A208,solid tissue normal,2b,deceased,female,not available,white,48,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-BH-A209,primary solid tumor,1,deceased,female,postmenopausal,black or african american,77,positive,positive,not evaluated,NA,NA,medullary carcinoma,LumA
+TCGA-BH-A209,solid tissue normal,1,deceased,female,postmenopausal,black or african american,77,NA,NA,NA,NA,NA,medullary carcinoma,NA
+TCGA-BH-A28O,primary solid tumor,3c,alive,female,not available,white,50,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-BH-A28Q,primary solid tumor,2b,alive,female,premenopausal,white,46,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-BH-A2L8,primary solid tumor,2a,alive,female,premenopausal,white,45,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-BH-A42T,primary solid tumor,2a,deceased,female,postmenopausal,black or african american,75,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-BH-A42U,primary solid tumor,2a,alive,female,postmenopausal,black or african american,80,negative,negative,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-BH-A42V,primary solid tumor,1b,alive,female,premenopausal,black or african american,41,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-BH-A5IZ,primary solid tumor,2b,alive,female,postmenopausal,black or african american,51,positive,negative,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-BH-A5J0,primary solid tumor,1a,alive,female,postmenopausal,black or african american,63,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-BH-A6R8,primary solid tumor,2a,alive,female,unknown,black or african american,46,positive,positive,not evaluated,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-BH-A6R9,primary solid tumor,2a,alive,female,postmenopausal,white,61,negative,positive,negative,NA,NA,metaplastic carcinoma,LumA
+TCGA-BH-A8FY,primary solid tumor,1a,deceased,female,postmenopausal,white,87,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-BH-A8FZ,primary solid tumor,1a,alive,female,postmenopausal,white,58,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-BH-A8G0,primary solid tumor,2b,alive,female,perimenopausal,white,54,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-BH-AB28,primary solid tumor,3a,alive,female,unknown,white,53,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-C8-A12K,primary solid tumor,2b,alive,female,postmenopausal,asian,80,not evaluated,not evaluated,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A12L,primary solid tumor,2a,alive,female,postmenopausal,asian,67,negative,negative,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A12M,primary solid tumor,2a,alive,female,postmenopausal,asian,70,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A12N,primary solid tumor,2a,alive,female,postmenopausal,asian,58,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-C8-A12O,primary solid tumor,2a,alive,female,premenopausal,asian,50,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-C8-A12P,primary solid tumor,2b,alive,female,postmenopausal,asian,55,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-C8-A12Q,primary solid tumor,3a,deceased,female,postmenopausal,asian,78,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-C8-A12T,primary solid tumor,2a,alive,female,premenopausal,asian,43,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-C8-A12U,primary solid tumor,2b,alive,female,premenopausal,asian,46,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A12V,primary solid tumor,2a,alive,female,postmenopausal,asian,55,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A12W,primary solid tumor,3b,alive,female,premenopausal,asian,49,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A12X,primary solid tumor,2b,alive,female,postmenopausal,asian,62,positive,positive,negative,present,absent,mucinous carcinoma,LumB
+TCGA-C8-A12Y,primary solid tumor,2b,alive,female,premenopausal,asian,44,not evaluated,not evaluated,not evaluated,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-C8-A12Z,primary solid tumor,2b,alive,female,perimenopausal,asian,45,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A130,primary solid tumor,3a,alive,female,perimenopausal,asian,52,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-C8-A131,primary solid tumor,3a,alive,female,postmenopausal,asian,82,negative,negative,negative,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-C8-A132,primary solid tumor,2b,alive,female,postmenopausal,asian,56,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A133,primary solid tumor,3a,alive,female,postmenopausal,white,65,positive,positive,not evaluated,present,absent,other,Basal
+TCGA-C8-A134,primary solid tumor,2a,alive,female,perimenopausal,asian,52,negative,negative,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A135,primary solid tumor,2b,alive,female,postmenopausal,asian,64,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A137,primary solid tumor,2b,alive,female,premenopausal,asian,34,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A138,primary solid tumor,3a,alive,female,postmenopausal,asian,54,positive,negative,equivocal,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-C8-A1HE,primary solid tumor,2a,alive,female,postmenopausal,asian,59,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A1HF,primary solid tumor,2a,alive,female,premenopausal,asian,48,negative,positive,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A1HG,primary solid tumor,2a,alive,female,premenopausal,asian,50,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A1HI,primary solid tumor,3a,alive,female,premenopausal,asian,40,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A1HJ,primary solid tumor,2a,alive,female,perimenopausal,asian,53,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A1HK,primary solid tumor,2b,alive,female,perimenopausal,asian,53,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A1HL,primary solid tumor,3a,alive,female,premenopausal,asian,38,positive,negative,equivocal,present,absent,other,LumA
+TCGA-C8-A1HM,primary solid tumor,2a,alive,female,postmenopausal,asian,74,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A1HN,primary solid tumor,2a,alive,female,postmenopausal,asian,56,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-C8-A1HO,primary solid tumor,3c,alive,female,premenopausal,asian,34,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A26V,primary solid tumor,3a,alive,female,perimenopausal,asian,47,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A26W,primary solid tumor,2b,alive,female,postmenopausal,asian,58,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-C8-A26X,primary solid tumor,2a,alive,female,postmenopausal,asian,58,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A26Y,primary solid tumor,2a,alive,female,postmenopausal,asian,90,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A26Z,primary solid tumor,2a,alive,female,postmenopausal,asian,59,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-C8-A273,primary solid tumor,2b,alive,female,premenopausal,asian,29,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-C8-A274,primary solid tumor,2a,alive,female,postmenopausal,asian,63,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-C8-A275,primary solid tumor,2a,alive,female,postmenopausal,asian,56,not evaluated,not evaluated,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A278,primary solid tumor,3a,alive,female,postmenopausal,asian,61,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A27A,primary solid tumor,2b,alive,female,perimenopausal,asian,48,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-C8-A27B,primary solid tumor,2b,alive,female,perimenopausal,asian,48,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-C8-A3M7,primary solid tumor,3b,deceased,female,postmenopausal,asian,60,negative,negative,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-C8-A3M8,primary solid tumor,1a,alive,female,postmenopausal,asian,68,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-C8-A8HP,primary solid tumor,3a,alive,female,postmenopausal,asian,59,negative,negative,positive,NA,NA,metaplastic carcinoma,LumA
+TCGA-C8-A8HQ,primary solid tumor,2b,alive,female,postmenopausal,asian,53,positive,positive,negative,NA,NA,mucinous carcinoma,Her2
+TCGA-C8-A8HR,primary solid tumor,3a,alive,female,perimenopausal,asian,49,not evaluated,not evaluated,not evaluated,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-D8-A13Y,primary solid tumor,1a,alive,female,postmenopausal,white,52,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-D8-A13Z,primary solid tumor,NA,alive,female,postmenopausal,white,51,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A140,primary solid tumor,2b,alive,female,postmenopausal,white,62,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-D8-A141,primary solid tumor,NA,alive,female,indeterminate,white,40,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A142,primary solid tumor,2b,alive,female,postmenopausal,white,74,negative,negative,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A143,primary solid tumor,2a,alive,female,postmenopausal,white,51,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A145,primary solid tumor,2a,alive,female,postmenopausal,white,80,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A146,primary solid tumor,2a,alive,female,postmenopausal,white,57,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-D8-A147,primary solid tumor,NA,alive,female,indeterminate,white,45,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1J8,primary solid tumor,2b,alive,female,postmenopausal,white,77,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1J9,primary solid tumor,1a,alive,female,postmenopausal,white,48,positive,negative,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-D8-A1JA,primary solid tumor,NA,alive,female,postmenopausal,white,60,negative,negative,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1JB,primary solid tumor,2b,alive,female,postmenopausal,white,54,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1JC,primary solid tumor,3a,alive,female,postmenopausal,white,59,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1JD,primary solid tumor,2b,alive,female,premenopausal,white,41,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1JE,primary solid tumor,2a,alive,female,postmenopausal,white,62,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-D8-A1JF,primary solid tumor,3a,alive,female,postmenopausal,white,79,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1JG,primary solid tumor,2a,alive,female,postmenopausal,white,62,negative,negative,equivocal,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1JH,primary solid tumor,1a,alive,female,postmenopausal,white,56,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1JI,primary solid tumor,2a,alive,female,postmenopausal,white,54,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-D8-A1JJ,primary solid tumor,2a,alive,female,postmenopausal,white,54,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-D8-A1JK,primary solid tumor,2a,alive,female,postmenopausal,white,90,negative,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-D8-A1JL,primary solid tumor,2a,alive,female,postmenopausal,white,72,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1JM,primary solid tumor,2b,alive,female,postmenopausal,white,59,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1JN,primary solid tumor,3c,alive,female,postmenopausal,white,80,positive,positive,indeterminate,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-D8-A1JP,primary solid tumor,1a,alive,female,postmenopausal,white,73,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-D8-A1JS,primary solid tumor,1a,alive,female,postmenopausal,white,77,positive,positive,negative,absent,absent,other,Basal
+TCGA-D8-A1JT,primary solid tumor,2a,alive,female,postmenopausal,white,70,positive,positive,equivocal,absent,absent,other,LumA
+TCGA-D8-A1JU,primary solid tumor,1a,alive,female,postmenopausal,white,51,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1X5,primary solid tumor,3c,alive,female,postmenopausal,white,81,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1X6,primary solid tumor,3a,alive,female,postmenopausal,white,80,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-D8-A1X7,primary solid tumor,2a,alive,female,premenopausal,white,40,positive,positive,negative,absent,absent,other,LumB
+TCGA-D8-A1X8,primary solid tumor,3a,alive,female,postmenopausal,white,62,positive,indeterminate,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-D8-A1X9,primary solid tumor,2b,alive,female,postmenopausal,white,66,positive,positive,indeterminate,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-D8-A1XA,primary solid tumor,1a,alive,female,postmenopausal,white,64,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-D8-A1XB,primary solid tumor,2b,alive,female,postmenopausal,white,62,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1XC,primary solid tumor,3b,deceased,female,postmenopausal,white,85,positive,positive,negative,present,absent,mucinous carcinoma,LumA
+TCGA-D8-A1XD,primary solid tumor,3a,alive,female,premenopausal,white,36,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-D8-A1XF,primary solid tumor,2a,alive,female,premenopausal,white,45,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-D8-A1XG,primary solid tumor,3b,alive,female,postmenopausal,white,86,positive,negative,negative,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-D8-A1XJ,primary solid tumor,3a,alive,female,postmenopausal,white,76,positive,positive,positive,present,absent,other,Normal
+TCGA-D8-A1XK,primary solid tumor,2b,alive,female,postmenopausal,white,55,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1XL,primary solid tumor,2b,alive,female,premenopausal,white,34,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1XM,primary solid tumor,1a,alive,female,postmenopausal,white,57,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1XO,primary solid tumor,2b,alive,female,postmenopausal,white,56,positive,positive,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-D8-A1XQ,primary solid tumor,2a,alive,female,postmenopausal,white,69,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-D8-A1XR,primary solid tumor,2b,alive,female,postmenopausal,white,56,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Her2
+TCGA-D8-A1XS,primary solid tumor,3c,alive,male,not available,white,48,positive,positive,positive,present,absent,other,LumA
+TCGA-D8-A1XT,primary solid tumor,2a,alive,female,postmenopausal,white,61,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1XU,primary solid tumor,1a,alive,female,postmenopausal,white,56,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1XV,primary solid tumor,2a,alive,female,postmenopausal,white,84,positive,positive,equivocal,absent,absent,mucinous carcinoma,LumA
+TCGA-D8-A1XW,primary solid tumor,2a,alive,female,postmenopausal,white,53,negative,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1XY,primary solid tumor,2a,alive,female,postmenopausal,white,74,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-D8-A1XZ,primary solid tumor,3a,alive,female,postmenopausal,white,81,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-D8-A1Y0,primary solid tumor,3a,alive,female,postmenopausal,white,65,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1Y1,primary solid tumor,3a,deceased,female,postmenopausal,white,80,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Her2
+TCGA-D8-A1Y2,primary solid tumor,2a,alive,female,postmenopausal,white,71,positive,positive,indeterminate,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A1Y3,primary solid tumor,3a,alive,female,postmenopausal,white,61,positive,positive,indeterminate,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-D8-A27E,primary solid tumor,1a,alive,female,postmenopausal,white,66,positive,positive,negative,absent,absent,other,LumA
+TCGA-D8-A27F,primary solid tumor,2a,alive,female,premenopausal,white,40,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A27G,primary solid tumor,2a,alive,female,postmenopausal,white,75,positive,positive,equivocal,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-D8-A27H,primary solid tumor,2a,alive,female,postmenopausal,white,72,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-D8-A27I,primary solid tumor,3a,alive,female,postmenopausal,white,58,positive,positive,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-D8-A27K,primary solid tumor,2b,alive,female,postmenopausal,white,47,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A27L,primary solid tumor,3a,alive,female,postmenopausal,white,49,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A27M,primary solid tumor,1a,alive,female,postmenopausal,white,59,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A27N,primary solid tumor,3a,alive,female,premenopausal,white,36,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A27P,primary solid tumor,1a,alive,female,postmenopausal,white,64,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A27R,primary solid tumor,3c,alive,female,postmenopausal,white,41,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-D8-A27T,primary solid tumor,3c,alive,female,postmenopausal,white,53,positive,positive,negative,present,absent,infiltrating lobular carcinoma,LumB
+TCGA-D8-A27V,primary solid tumor,2a,alive,female,postmenopausal,white,62,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-D8-A27W,primary solid tumor,3b,alive,female,postmenopausal,white,55,positive,positive,equivocal,absent,absent,mucinous carcinoma,LumB
+TCGA-D8-A3Z5,primary solid tumor,3c,alive,female,postmenopausal,white,54,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-D8-A3Z6,primary solid tumor,3c,alive,female,postmenopausal,white,56,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-D8-A4Z1,primary solid tumor,1a,alive,female,postmenopausal,white,68,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-D8-A73U,primary solid tumor,2a,alive,female,postmenopausal,white,88,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-D8-A73W,primary solid tumor,3a,deceased,female,postmenopausal,white,79,positive,negative,negative,NA,NA,mucinous carcinoma,LumA
+TCGA-D8-A73X,primary solid tumor,2a,alive,female,postmenopausal,white,53,positive,positive,negative,NA,NA,other,Basal
+TCGA-E2-A105,primary solid tumor,2a,alive,female,postmenopausal,white,79,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A106,primary solid tumor,1b,alive,female,premenopausal,asian,34,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A107,primary solid tumor,3a,alive,female,postmenopausal,white,54,positive,negative,equivocal,present,absent,infiltrating lobular carcinoma,Basal
+TCGA-E2-A108,primary solid tumor,3a,alive,female,postmenopausal,white,64,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A109,primary solid tumor,2a,alive,female,postmenopausal,white,64,positive,negative,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A10A,primary solid tumor,2b,alive,female,premenopausal,white,41,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A10B,primary solid tumor,2b,alive,female,postmenopausal,white,67,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A10C,primary solid tumor,2b,alive,female,postmenopausal,white,54,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A10E,primary solid tumor,2a,alive,female,postmenopausal,white,64,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A10F,primary solid tumor,2a,alive,female,premenopausal,white,47,positive,positive,equivocal,absent,absent,infiltrating lobular carcinoma,Basal
+TCGA-E2-A14N,primary solid tumor,2b,alive,female,premenopausal,white,37,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A14O,primary solid tumor,3a,alive,female,postmenopausal,white,76,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A14P,primary solid tumor,3c,alive,female,postmenopausal,white,79,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A14Q,primary solid tumor,2b,alive,female,premenopausal,white,50,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A14R,primary solid tumor,2a,alive,female,postmenopausal,white,62,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-E2-A14S,primary solid tumor,1,alive,female,postmenopausal,white,65,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A14T,primary solid tumor,2a,alive,female,postmenopausal,white,52,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A14U,primary solid tumor,1,alive,female,postmenopausal,white,74,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-E2-A14V,primary solid tumor,2b,alive,female,postmenopausal,white,53,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A14W,primary solid tumor,2a,alive,male,not available,white,78,positive,positive,not evaluated,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A14X,primary solid tumor,3a,alive,female,postmenopausal,black or african american,55,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A14Y,primary solid tumor,2a,alive,female,premenopausal,white,35,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A14Z,primary solid tumor,1,deceased,female,postmenopausal,white,64,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A150,primary solid tumor,2a,alive,female,postmenopausal,white,48,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A152,primary solid tumor,1,alive,female,postmenopausal,white,56,positive,negative,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A153,primary solid tumor,2b,alive,female,premenopausal,white,51,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Her2
+TCGA-E2-A153,solid tissue normal,2b,alive,female,premenopausal,white,51,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E2-A154,primary solid tumor,1,alive,female,postmenopausal,white,68,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A155,primary solid tumor,2b,alive,female,postmenopausal,white,58,positive,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A156,primary solid tumor,1,alive,female,postmenopausal,white,61,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A158,primary solid tumor,2a,alive,female,premenopausal,white,43,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A158,solid tissue normal,2a,alive,female,premenopausal,white,43,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E2-A159,primary solid tumor,2a,alive,female,premenopausal,white,50,negative,negative,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A15A,primary solid tumor,3c,alive,female,premenopausal,white,45,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A15C,primary solid tumor,1,alive,female,postmenopausal,white,61,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A15D,primary solid tumor,2a,alive,female,premenopausal,white,47,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A15E,primary solid tumor,2a,alive,female,premenopausal,white,40,positive,positive,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A15F,primary solid tumor,1,alive,female,postmenopausal,white,64,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A15G,primary solid tumor,2a,alive,female,postmenopausal,white,76,positive,positive,negative,absent,absent,mixed histology,Her2
+TCGA-E2-A15H,primary solid tumor,2a,alive,female,premenopausal,white,38,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A15I,primary solid tumor,2a,alive,female,premenopausal,white,44,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A15I,solid tissue normal,2a,alive,female,premenopausal,white,44,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E2-A15J,primary solid tumor,1,alive,female,premenopausal,white,51,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A15K,primary solid tumor,2b,alive,female,postmenopausal,white,58,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A15K,solid tissue normal,2b,alive,female,postmenopausal,white,58,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E2-A15L,primary solid tumor,2a,alive,female,postmenopausal,black or african american,65,positive,positive,equivocal,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-E2-A15M,primary solid tumor,2a,deceased,female,postmenopausal,white,66,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-E2-A15M,solid tissue normal,2a,deceased,female,postmenopausal,white,66,NA,NA,NA,NA,NA,infiltrating lobular carcinoma,NA
+TCGA-E2-A15O,primary solid tumor,1,alive,female,postmenopausal,black or african american,89,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A15P,primary solid tumor,1a,alive,female,postmenopausal,white,61,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A15R,primary solid tumor,2a,alive,female,postmenopausal,white,64,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A15S,primary solid tumor,2b,alive,female,postmenopausal,white,34,positive,negative,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A15T,primary solid tumor,2a,alive,female,postmenopausal,white,65,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-E2-A1AZ,primary solid tumor,2b,alive,female,postmenopausal,white,63,negative,negative,indeterminate,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A1B0,primary solid tumor,3a,alive,female,postmenopausal,white,50,negative,negative,positive,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-E2-A1B1,primary solid tumor,2b,alive,female,postmenopausal,white,45,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A1B4,primary solid tumor,3a,deceased,female,postmenopausal,white,74,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Her2
+TCGA-E2-A1B5,primary solid tumor,2a,alive,female,premenopausal,white,46,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumB
+TCGA-E2-A1B6,primary solid tumor,2a,alive,female,premenopausal,white,44,negative,negative,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A1BC,primary solid tumor,1a,alive,female,postmenopausal,not reported,63,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A1BC,solid tissue normal,1a,alive,female,postmenopausal,not reported,63,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E2-A1BD,primary solid tumor,2a,alive,female,postmenopausal,white,53,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-E2-A1IE,primary solid tumor,2b,alive,female,postmenopausal,white,61,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A1IF,primary solid tumor,1,alive,female,postmenopausal,white,74,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A1IG,primary solid tumor,2b,alive,female,premenopausal,white,45,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A1IG,solid tissue normal,2b,alive,female,premenopausal,white,45,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E2-A1IH,primary solid tumor,1,alive,female,postmenopausal,white,80,positive,positive,equivocal,absent,absent,infiltrating lobular carcinoma,LumB
+TCGA-E2-A1II,primary solid tumor,1,alive,female,postmenopausal,white,51,negative,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A1IJ,primary solid tumor,1,alive,female,postmenopausal,white,57,positive,positive,equivocal,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-E2-A1IK,primary solid tumor,2a,alive,female,postmenopausal,white,71,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-E2-A1IL,primary solid tumor,2a,alive,female,postmenopausal,white,78,positive,positive,negative,present,absent,infiltrating lobular carcinoma,Basal
+TCGA-E2-A1IN,primary solid tumor,1,alive,female,postmenopausal,white,60,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-E2-A1IO,primary solid tumor,1,alive,female,premenopausal,white,37,positive,positive,equivocal,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A1IU,primary solid tumor,1a,alive,female,postmenopausal,white,60,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A1L6,primary solid tumor,2a,alive,female,premenopausal,white,44,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A1L7,primary solid tumor,3a,alive,female,premenopausal,white,40,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A1L7,solid tissue normal,3a,alive,female,premenopausal,white,40,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E2-A1L8,primary solid tumor,2b,alive,female,postmenopausal,black or african american,52,positive,positive,equivocal,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-E2-A1L9,primary solid tumor,2a,alive,female,premenopausal,white,40,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-E2-A1LA,primary solid tumor,2a,alive,female,postmenopausal,not reported,59,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-E2-A1LB,primary solid tumor,2b,alive,female,premenopausal,black or african american,41,negative,negative,positive,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A1LB,solid tissue normal,2b,alive,female,premenopausal,black or african american,41,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E2-A1LE,primary solid tumor,3c,deceased,female,postmenopausal,white,71,negative,negative,positive,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-E2-A1LG,primary solid tumor,2a,alive,female,perimenopausal,black or african american,50,negative,negative,equivocal,absent,absent,infiltrating lobular carcinoma,Her2
+TCGA-E2-A1LH,primary solid tumor,1,alive,female,postmenopausal,white,59,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A1LH,solid tissue normal,1,alive,female,postmenopausal,white,59,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E2-A1LI,primary solid tumor,2b,alive,female,postmenopausal,white,57,negative,negative,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A1LK,primary solid tumor,3c,deceased,female,postmenopausal,black or african american,84,negative,negative,equivocal,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-E2-A1LL,primary solid tumor,3a,alive,female,postmenopausal,black or african american,73,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-E2-A1LS,primary solid tumor,1a,alive,female,premenopausal,white,46,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E2-A1LS,solid tissue normal,1a,alive,female,premenopausal,white,46,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E2-A2P5,primary solid tumor,3c,deceased,female,postmenopausal,black or african american,78,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-E2-A2P6,primary solid tumor,2b,alive,female,postmenopausal,not reported,77,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-E2-A3DX,primary solid tumor,3c,alive,female,premenopausal,white,43,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-E2-A56Z,primary solid tumor,2b,alive,female,postmenopausal,black or african american,69,positive,positive,equivocal,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-E2-A570,primary solid tumor,1b,alive,female,premenopausal,black or african american,47,positive,positive,equivocal,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-E2-A572,primary solid tumor,3a,alive,female,postmenopausal,black or african american,72,positive,positive,equivocal,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-E2-A573,primary solid tumor,1a,alive,female,perimenopausal,black or african american,48,negative,negative,equivocal,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-E2-A574,primary solid tumor,2a,alive,female,premenopausal,black or african american,44,negative,negative,equivocal,NA,NA,infiltrating ductal carcinoma,Normal
+TCGA-E2-A576,primary solid tumor,1a,alive,female,postmenopausal,black or african american,69,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-E2-A9RU,primary solid tumor,3c,alive,female,postmenopausal,black or african american,90,positive,negative,equivocal,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-E9-A1N3,primary solid tumor,3a,alive,female,postmenopausal,white,70,not evaluated,not evaluated,not evaluated,present,absent,mixed histology,LumA
+TCGA-E9-A1N4,primary solid tumor,3a,alive,female,premenopausal,white,41,positive,positive,positive,present,absent,mixed histology,LumA
+TCGA-E9-A1N4,solid tissue normal,3a,alive,female,premenopausal,white,41,NA,NA,NA,NA,NA,mixed histology,NA
+TCGA-E9-A1N5,primary solid tumor,2b,alive,female,postmenopausal,white,45,positive,positive,positive,present,absent,mixed histology,LumB
+TCGA-E9-A1N5,solid tissue normal,2b,alive,female,postmenopausal,white,45,NA,NA,NA,NA,NA,mixed histology,NA
+TCGA-E9-A1N6,primary solid tumor,2b,deceased,female,postmenopausal,white,52,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A1N6,solid tissue normal,2b,deceased,female,postmenopausal,white,52,positive,positive,positive,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E9-A1N8,primary solid tumor,2a,alive,female,postmenopausal,white,48,negative,not evaluated,negative,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-E9-A1N9,primary solid tumor,2a,alive,female,postmenopausal,white,58,negative,positive,positive,absent,absent,mixed histology,LumA
+TCGA-E9-A1N9,solid tissue normal,2a,alive,female,postmenopausal,white,58,NA,NA,NA,NA,NA,mixed histology,NA
+TCGA-E9-A1NA,primary solid tumor,2a,alive,female,postmenopausal,white,58,positive,positive,positive,absent,absent,mixed histology,LumA
+TCGA-E9-A1NA,solid tissue normal,2a,alive,female,postmenopausal,white,58,NA,NA,NA,NA,NA,mixed histology,NA
+TCGA-E9-A1NC,primary solid tumor,2b,alive,female,postmenopausal,white,61,negative,positive,positive,present,absent,mixed histology,Normal
+TCGA-E9-A1ND,primary solid tumor,2b,alive,female,postmenopausal,white,75,negative,negative,positive,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-E9-A1ND,solid tissue normal,2b,alive,female,postmenopausal,white,NA,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E9-A1NE,primary solid tumor,2b,alive,female,premenopausal,white,28,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A1NF,primary solid tumor,2a,deceased,female,postmenopausal,white,60,positive,positive,negative,absent,absent,mixed histology,Normal
+TCGA-E9-A1NF,solid tissue normal,2a,deceased,female,postmenopausal,white,60,NA,NA,NA,NA,NA,mixed histology,NA
+TCGA-E9-A1NG,primary solid tumor,2a,deceased,female,postmenopausal,white,62,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A1NG,solid tissue normal,2a,deceased,female,postmenopausal,white,62,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E9-A1NH,primary solid tumor,2b,alive,female,postmenopausal,white,71,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-E9-A1NI,primary solid tumor,2a,alive,female,postmenopausal,white,51,positive,positive,negative,absent,absent,mixed histology,Her2
+TCGA-E9-A1QZ,primary solid tumor,2a,alive,female,postmenopausal,white,61,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,Normal
+TCGA-E9-A1R0,primary solid tumor,2a,alive,female,postmenopausal,white,58,not evaluated,not evaluated,not evaluated,present,absent,infiltrating ductal carcinoma,Normal
+TCGA-E9-A1R2,primary solid tumor,3c,alive,female,postmenopausal,white,51,positive,negative,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A1R3,primary solid tumor,3c,alive,female,postmenopausal,white,70,not evaluated,not evaluated,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A1R4,primary solid tumor,1a,alive,female,postmenopausal,white,66,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A1R5,primary solid tumor,1a,alive,female,postmenopausal,white,63,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,Her2
+TCGA-E9-A1R6,primary solid tumor,2a,alive,female,postmenopausal,white,63,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-E9-A1R7,primary solid tumor,2a,alive,female,postmenopausal,white,64,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A1R7,solid tissue normal,2a,alive,female,postmenopausal,white,64,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E9-A1RA,primary solid tumor,1a,alive,female,premenopausal,white,48,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-E9-A1RB,primary solid tumor,2a,deceased,female,premenopausal,white,40,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-E9-A1RB,solid tissue normal,2a,deceased,female,premenopausal,white,40,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E9-A1RC,primary solid tumor,3c,alive,female,postmenopausal,white,56,not evaluated,not evaluated,not evaluated,present,absent,mixed histology,Basal
+TCGA-E9-A1RC,solid tissue normal,3c,alive,female,postmenopausal,white,56,NA,NA,NA,NA,NA,mixed histology,NA
+TCGA-E9-A1RD,primary solid tumor,2a,alive,female,postmenopausal,white,67,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A1RD,solid tissue normal,2a,alive,female,postmenopausal,white,67,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E9-A1RE,primary solid tumor,3a,alive,female,postmenopausal,white,74,not evaluated,not evaluated,not evaluated,present,absent,infiltrating ductal carcinoma,Her2
+TCGA-E9-A1RF,primary solid tumor,3a,alive,female,postmenopausal,white,68,not evaluated,not evaluated,not evaluated,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A1RF,solid tissue normal,3a,alive,female,postmenopausal,white,68,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E9-A1RG,primary solid tumor,3a,alive,female,postmenopausal,white,62,not evaluated,not evaluated,not evaluated,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-E9-A1RH,primary solid tumor,2a,alive,female,postmenopausal,white,63,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A1RH,solid tissue normal,2a,alive,female,postmenopausal,white,63,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-E9-A1RI,primary solid tumor,3a,alive,female,premenopausal,white,43,not evaluated,not evaluated,not evaluated,present,absent,mixed histology,LumA
+TCGA-E9-A1RI,solid tissue normal,3a,alive,female,premenopausal,white,43,NA,NA,NA,NA,NA,mixed histology,NA
+TCGA-E9-A226,primary solid tumor,3a,deceased,female,premenopausal,white,45,not evaluated,not evaluated,not evaluated,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-E9-A227,primary solid tumor,2b,alive,female,premenopausal,white,42,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Her2
+TCGA-E9-A228,primary solid tumor,2b,alive,female,postmenopausal,white,58,not evaluated,not evaluated,not evaluated,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-E9-A229,primary solid tumor,1a,alive,female,premenopausal,white,37,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-E9-A22A,primary solid tumor,2a,alive,female,postmenopausal,white,74,positive,negative,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-E9-A22B,primary solid tumor,1a,alive,female,postmenopausal,white,71,positive,negative,negative,absent,absent,mixed histology,Her2
+TCGA-E9-A22D,primary solid tumor,2a,alive,female,premenopausal,white,38,positive,positive,positive,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-E9-A22E,primary solid tumor,3a,alive,female,postmenopausal,white,56,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A22G,primary solid tumor,2a,alive,female,postmenopausal,white,47,negative,negative,positive,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A22H,primary solid tumor,2b,alive,female,premenopausal,white,42,positive,positive,positive,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A243,primary solid tumor,2a,alive,female,perimenopausal,white,52,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A244,primary solid tumor,2a,alive,female,postmenopausal,white,54,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A245,primary solid tumor,2b,deceased,female,premenopausal,white,47,not evaluated,not evaluated,not evaluated,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-E9-A247,primary solid tumor,1a,alive,female,postmenopausal,white,59,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-E9-A248,primary solid tumor,2a,alive,female,perimenopausal,white,51,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-E9-A249,primary solid tumor,2a,alive,female,premenopausal,white,45,not evaluated,not evaluated,not evaluated,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-E9-A24A,primary solid tumor,2a,alive,female,postmenopausal,white,69,not evaluated,not evaluated,not evaluated,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-E9-A295,primary solid tumor,2a,alive,female,postmenopausal,white,71,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-E9-A2JS,primary solid tumor,2b,deceased,female,postmenopausal,white,72,not evaluated,not evaluated,not evaluated,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-E9-A2JT,primary solid tumor,2a,alive,female,postmenopausal,white,63,not evaluated,not evaluated,not evaluated,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-E9-A3HO,primary solid tumor,2a,alive,female,premenopausal,white,49,not evaluated,not evaluated,not evaluated,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-E9-A3Q9,primary solid tumor,3c,alive,female,postmenopausal,white,78,positive,positive,indeterminate,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-E9-A3QA,primary solid tumor,2a,alive,female,premenopausal,white,33,not evaluated,not evaluated,not evaluated,NA,NA,medullary carcinoma,LumA
+TCGA-E9-A3X8,primary solid tumor,2b,alive,female,postmenopausal,white,48,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-E9-A54X,primary solid tumor,1a,alive,female,postmenopausal,white,85,positive,positive,negative,NA,NA,mucinous carcinoma,Basal
+TCGA-E9-A54Y,primary solid tumor,3a,alive,female,postmenopausal,white,63,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-E9-A5FK,primary solid tumor,3c,alive,female,postmenopausal,white,60,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-E9-A5FL,primary solid tumor,2b,alive,female,postmenopausal,white,65,negative,negative,negative,NA,NA,metaplastic carcinoma,LumA
+TCGA-E9-A5UO,primary solid tumor,2a,alive,female,premenopausal,white,41,not evaluated,not evaluated,not evaluated,NA,NA,mucinous carcinoma,LumB
+TCGA-E9-A5UP,primary solid tumor,2a,alive,female,postmenopausal,white,63,not evaluated,not evaluated,not evaluated,NA,NA,other,Basal
+TCGA-E9-A6HE,primary solid tumor,3c,alive,female,premenopausal,white,45,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-EW-A1IW,primary solid tumor,2b,alive,female,postmenopausal,white,80,positive,positive,positive,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-EW-A1IX,primary solid tumor,2a,alive,female,perimenopausal,asian,48,positive,positive,negative,present,absent,other,LumA
+TCGA-EW-A1IY,primary solid tumor,1,alive,female,premenopausal,asian,38,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-EW-A1IZ,primary solid tumor,3a,alive,female,postmenopausal,white,53,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-EW-A1J1,primary solid tumor,2b,alive,female,premenopausal,white,38,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-EW-A1J2,primary solid tumor,NA,alive,female,premenopausal,black or african american,50,positive,positive,negative,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-EW-A1J3,primary solid tumor,1a,alive,female,postmenopausal,white,61,positive,positive,positive,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-EW-A1J5,primary solid tumor,2b,alive,female,postmenopausal,white,59,positive,positive,negative,absent,absent,infiltrating lobular carcinoma,LumA
+TCGA-EW-A1J6,primary solid tumor,1,alive,female,postmenopausal,white,70,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-EW-A1OV,primary solid tumor,2b,alive,female,postmenopausal,white,56,negative,negative,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-EW-A1OW,primary solid tumor,2a,alive,female,postmenopausal,black or african american,58,negative,negative,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-EW-A1OX,primary solid tumor,2a,alive,female,premenopausal,white,43,positive,positive,negative,absent,absent,mucinous carcinoma,LumB
+TCGA-EW-A1OY,primary solid tumor,2a,alive,female,postmenopausal,white,63,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-EW-A1OZ,primary solid tumor,2a,alive,female,postmenopausal,black or african american,56,positive,negative,equivocal,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-EW-A1P0,primary solid tumor,2b,alive,female,postmenopausal,white,55,positive,negative,negative,present,absent,other,LumA
+TCGA-EW-A1P1,primary solid tumor,3c,alive,female,postmenopausal,white,68,negative,negative,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-EW-A1P3,primary solid tumor,2a,alive,female,premenopausal,white,48,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,Basal
+TCGA-EW-A1P4,primary solid tumor,2a,alive,female,premenopausal,white,43,negative,negative,negative,absent,absent,medullary carcinoma,LumB
+TCGA-EW-A1P5,primary solid tumor,2b,alive,female,postmenopausal,white,77,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumB
+TCGA-EW-A1P6,primary solid tumor,2b,alive,female,postmenopausal,white,64,positive,positive,negative,present,absent,infiltrating ductal carcinoma,Basal
+TCGA-EW-A1P7,primary solid tumor,2a,alive,female,postmenopausal,white,59,negative,negative,equivocal,absent,absent,infiltrating ductal carcinoma,LumA
+TCGA-EW-A1P8,primary solid tumor,3c,deceased,female,postmenopausal,white,58,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-EW-A1PA,primary solid tumor,2b,alive,female,postmenopausal,white,59,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-EW-A1PB,primary solid tumor,3a,alive,female,postmenopausal,black or african american,70,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-EW-A1PC,primary solid tumor,2b,alive,female,postmenopausal,black or african american,66,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-EW-A1PD,primary solid tumor,2a,alive,male,not available,white,61,positive,positive,equivocal,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-EW-A1PE,primary solid tumor,2a,alive,female,postmenopausal,white,56,positive,positive,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-EW-A1PF,primary solid tumor,1a,alive,female,postmenopausal,white,50,positive,positive,negative,absent,absent,infiltrating ductal carcinoma,LumB
+TCGA-EW-A1PG,primary solid tumor,2b,alive,female,postmenopausal,white,53,positive,positive,equivocal,present,absent,infiltrating lobular carcinoma,LumA
+TCGA-EW-A1PH,primary solid tumor,2a,alive,female,postmenopausal,white,52,negative,negative,negative,present,absent,infiltrating ductal carcinoma,LumA
+TCGA-EW-A2FR,primary solid tumor,3c,alive,female,postmenopausal,black or african american,59,negative,negative,equivocal,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-EW-A2FS,primary solid tumor,2b,alive,female,premenopausal,black or african american,41,positive,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-EW-A2FV,primary solid tumor,3c,alive,female,premenopausal,white,39,positive,positive,negative,NA,NA,other,LumA
+TCGA-EW-A2FW,primary solid tumor,2a,alive,female,postmenopausal,white,52,positive,positive,negative,NA,NA,other,Her2
+TCGA-EW-A3E8,primary solid tumor,2b,alive,female,not evaluated,white,60,positive,negative,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-EW-A3U0,primary solid tumor,3a,alive,female,postmenopausal,black or african american,61,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,Her2
+TCGA-EW-A423,primary solid tumor,2a,alive,female,postmenopausal,white,75,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-EW-A424,primary solid tumor,3a,alive,female,not evaluated,white,51,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-EW-A6S9,primary solid tumor,2a,alive,female,not available,black or african american,34,positive,positive,positive,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-EW-A6SA,primary solid tumor,2,alive,male,not available,black or african american,59,positive,negative,negative,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-EW-A6SB,primary solid tumor,2,alive,female,not available,black or african american,62,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,Normal
+TCGA-EW-A6SC,primary solid tumor,2a,alive,female,not available,black or african american,60,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-EW-A6SD,primary solid tumor,2b,alive,female,not available,black or african american,32,negative,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-GI-A2C8,primary solid tumor,3b,alive,female,not available,white,63,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-GI-A2C8,solid tissue normal,3b,alive,female,not available,white,63,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-GI-A2C9,primary solid tumor,2b,alive,female,postmenopausal,black or african american,58,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-GI-A2C9,solid tissue normal,2b,alive,female,postmenopausal,black or african american,58,NA,NA,NA,NA,NA,infiltrating ductal carcinoma,NA
+TCGA-GM-A2D9,primary solid tumor,1,deceased,female,postmenopausal,white,69,positive,positive,not evaluated,NA,NA,infiltrating ductal carcinoma,Normal
+TCGA-GM-A2DA,primary solid tumor,2b,deceased,female,postmenopausal,white,46,positive,positive,equivocal,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-GM-A2DB,primary solid tumor,2a,alive,female,postmenopausal,white,62,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-GM-A2DC,primary solid tumor,2a,alive,female,postmenopausal,white,57,positive,positive,not evaluated,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-GM-A2DD,primary solid tumor,1,alive,female,postmenopausal,white,53,negative,negative,equivocal,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-GM-A2DF,primary solid tumor,2a,alive,female,postmenopausal,black or african american,53,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,Her2
+TCGA-GM-A2DH,primary solid tumor,1,alive,female,postmenopausal,white,58,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-GM-A2DI,primary solid tumor,1,alive,female,premenopausal,white,52,negative,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-GM-A2DK,primary solid tumor,1,alive,female,postmenopausal,white,58,positive,negative,negative,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-GM-A2DL,primary solid tumor,1,alive,female,perimenopausal,white,50,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-GM-A2DM,primary solid tumor,2a,alive,female,postmenopausal,white,57,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-GM-A2DN,primary solid tumor,2a,alive,female,postmenopausal,white,58,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-GM-A2DO,primary solid tumor,1,alive,female,postmenopausal,black or african american,54,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-GM-A3NW,primary solid tumor,2a,alive,female,postmenopausal,white,63,negative,positive,equivocal,NA,NA,infiltrating lobular carcinoma,Her2
+TCGA-GM-A3NY,primary solid tumor,2b,alive,female,postmenopausal,white,72,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-GM-A3XG,primary solid tumor,3a,alive,female,premenopausal,white,46,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-GM-A3XL,primary solid tumor,2a,alive,female,postmenopausal,black or african american,49,negative,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-GM-A3XN,primary solid tumor,3a,alive,female,postmenopausal,white,44,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-GM-A4E0,primary solid tumor,3c,alive,female,postmenopausal,white,67,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-GM-A5PV,primary solid tumor,2b,alive,female,postmenopausal,white,63,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-GM-A5PX,primary solid tumor,2b,alive,female,postmenopausal,white,65,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-HN-A2NL,primary solid tumor,2a,alive,female,postmenopausal,not reported,56,negative,negative,negative,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-HN-A2OB,primary solid tumor,2b,deceased,female,premenopausal,not reported,45,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-JL-A3YW,primary solid tumor,2b,alive,female,postmenopausal,asian,49,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-JL-A3YX,primary solid tumor,2a,alive,female,postmenopausal,asian,46,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-LD-A66U,primary solid tumor,2b,alive,female,not evaluated,white,44,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-LD-A74U,primary solid tumor,3c,alive,female,not available,white,79,positive,negative,negative,NA,NA,other,LumA
+TCGA-LD-A7W5,primary solid tumor,3c,alive,female,premenopausal,black or african american,52,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-LD-A7W6,primary solid tumor,2b,alive,female,postmenopausal,white,54,positive,positive,negative,NA,NA,other,LumA
+TCGA-LD-A9QF,primary solid tumor,1a,alive,female,postmenopausal,black or african american,73,negative,negative,positive,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-LL-A440,primary solid tumor,1a,alive,female,postmenopausal,white,61,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-LL-A441,primary solid tumor,1a,alive,female,postmenopausal,black or african american,62,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,Normal
+TCGA-LL-A442,primary solid tumor,2a,alive,female,postmenopausal,black or african american,56,positive,positive,equivocal,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-LL-A50Y,primary solid tumor,2a,alive,female,postmenopausal,white,84,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-LL-A5YL,primary solid tumor,2b,alive,female,postmenopausal,white,64,positive,negative,positive,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-LL-A5YM,primary solid tumor,3b,alive,female,postmenopausal,black or african american,88,positive,positive,equivocal,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-LL-A5YN,primary solid tumor,2a,alive,female,postmenopausal,black or african american,46,positive,positive,equivocal,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-LL-A5YO,primary solid tumor,1a,alive,female,premenopausal,black or african american,50,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-LL-A5YP,primary solid tumor,2b,alive,female,postmenopausal,black or african american,49,positive,negative,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-LL-A6FP,primary solid tumor,2a,alive,female,postmenopausal,white,90,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-LL-A6FQ,primary solid tumor,3a,alive,female,postmenopausal,black or african american,77,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-LL-A6FR,primary solid tumor,2a,alive,female,postmenopausal,black or african american,50,negative,positive,equivocal,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-LL-A73Y,primary solid tumor,1a,alive,female,postmenopausal,black or african american,67,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-LL-A73Z,primary solid tumor,4,deceased,female,postmenopausal,black or african american,55,positive,positive,equivocal,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-LL-A740,primary solid tumor,1a,alive,female,postmenopausal,black or african american,61,negative,negative,equivocal,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-LL-A7SZ,primary solid tumor,2b,alive,female,premenopausal,black or african american,49,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-LL-A7T0,primary solid tumor,2b,alive,female,postmenopausal,black or african american,70,positive,positive,positive,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-LL-A8F5,primary solid tumor,2a,alive,female,postmenopausal,black or african american,61,positive,negative,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-LL-A9Q3,primary solid tumor,3c,alive,female,postmenopausal,white,69,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-LQ-A4E4,primary solid tumor,3a,alive,female,postmenopausal,white,73,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-MS-A51U,primary solid tumor,2b,alive,female,not available,white,44,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Normal
+TCGA-OK-A5Q2,primary solid tumor,2,alive,female,unknown,not reported,59,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-OL-A5D6,primary solid tumor,2a,deceased,female,postmenopausal,black or african american,71,negative,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-OL-A5D7,primary solid tumor,2a,alive,female,postmenopausal,black or african american,70,negative,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-OL-A5D8,primary solid tumor,2b,alive,female,premenopausal,black or african american,40,positive,positive,not evaluated,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-OL-A5DA,primary solid tumor,2a,alive,female,postmenopausal,white,61,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-OL-A5RU,primary solid tumor,2a,alive,female,postmenopausal,black or african american,63,positive,positive,not evaluated,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-OL-A5RV,primary solid tumor,3c,alive,female,premenopausal,black or african american,43,positive,positive,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-OL-A5RW,primary solid tumor,2a,alive,female,premenopausal,black or african american,40,negative,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-OL-A5RX,primary solid tumor,1a,alive,female,premenopausal,black or african american,51,positive,positive,not evaluated,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-OL-A5RY,primary solid tumor,2a,alive,female,postmenopausal,black or african american,52,positive,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-OL-A5RZ,primary solid tumor,1a,alive,female,postmenopausal,black or african american,57,positive,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-OL-A5S0,primary solid tumor,2b,alive,female,postmenopausal,black or african american,66,positive,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-OL-A66H,primary solid tumor,1b,alive,female,postmenopausal,black or african american,74,positive,positive,not evaluated,NA,NA,mucinous carcinoma,LumB
+TCGA-OL-A66I,primary solid tumor,2a,alive,female,not evaluated,black or african american,36,negative,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-OL-A66J,primary solid tumor,1,alive,female,postmenopausal,white,80,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-OL-A66K,primary solid tumor,2a,deceased,female,postmenopausal,white,72,positive,positive,equivocal,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-OL-A66L,primary solid tumor,1a,alive,female,postmenopausal,black or african american,71,positive,positive,not evaluated,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-OL-A66N,primary solid tumor,3c,alive,female,postmenopausal,white,59,positive,negative,not evaluated,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-OL-A66O,primary solid tumor,2b,alive,female,premenopausal,black or african american,39,positive,positive,not evaluated,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-OL-A66P,primary solid tumor,2a,alive,female,not available,black or african american,75,negative,negative,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-OL-A6VO,primary solid tumor,1a,alive,female,unknown,black or african american,43,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-OL-A6VQ,primary solid tumor,2a,alive,female,premenopausal,white,49,positive,positive,not evaluated,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-OL-A6VR,primary solid tumor,1a,alive,female,unknown,black or african american,48,positive,positive,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-OL-A97C,primary solid tumor,2b,alive,female,postmenopausal,black or african american,67,negative,negative,not evaluated,NA,NA,other,Normal
+TCGA-PE-A5DC,primary solid tumor,3a,deceased,female,postmenopausal,white,72,positive,positive,positive,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-PE-A5DD,primary solid tumor,2a,alive,female,postmenopausal,asian,64,positive,negative,positive,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-PE-A5DE,primary solid tumor,2a,alive,female,premenopausal,white,41,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-PL-A8LV,primary solid tumor,3b,alive,female,unknown,black or african american,54,not evaluated,not evaluated,not evaluated,NA,NA,medullary carcinoma,Her2
+TCGA-PL-A8LX,primary solid tumor,4,alive,female,premenopausal,black or african american,35,not evaluated,not evaluated,not evaluated,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-PL-A8LY,primary solid tumor,2b,alive,female,premenopausal,black or african american,30,not evaluated,not evaluated,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-PL-A8LZ,primary solid tumor,3b,alive,female,premenopausal,black or african american,29,not evaluated,not evaluated,not evaluated,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-S3-A6ZF,primary solid tumor,2a,alive,female,postmenopausal,black or african american,64,positive,positive,equivocal,NA,NA,infiltrating ductal carcinoma,Basal
+TCGA-S3-A6ZG,primary solid tumor,2b,alive,female,postmenopausal,black or african american,71,positive,positive,negative,NA,NA,mixed histology,Basal
+TCGA-S3-A6ZH,primary solid tumor,3c,alive,female,unknown,black or african american,29,positive,positive,equivocal,NA,NA,infiltrating ductal carcinoma,Her2
+TCGA-S3-AA0Z,primary solid tumor,2b,alive,female,postmenopausal,black or african american,63,positive,positive,equivocal,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-S3-AA10,primary solid tumor,2a,alive,female,postmenopausal,black or african american,65,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-S3-AA11,primary solid tumor,2a,alive,female,postmenopausal,black or african american,67,positive,positive,equivocal,NA,NA,infiltrating ductal carcinoma,LumA
+TCGA-S3-AA12,primary solid tumor,3a,alive,female,postmenopausal,black or african american,82,positive,negative,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-S3-AA14,primary solid tumor,1,alive,female,postmenopausal,black or african american,47,positive,positive,positive,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-S3-AA15,primary solid tumor,2b,alive,female,postmenopausal,black or african american,51,negative,negative,negative,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-S3-AA17,primary solid tumor,2b,alive,female,postmenopausal,black or african american,64,positive,positive,equivocal,NA,NA,infiltrating ductal carcinoma,Her2
+TCGA-UL-AAZ6,primary solid tumor,2a,alive,female,postmenopausal,black or african american,73,positive,positive,positive,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-UU-A93S,primary solid tumor,4,deceased,female,postmenopausal,black or african american,63,negative,negative,positive,NA,NA,infiltrating ductal carcinoma,Normal
+TCGA-V7-A7HQ,primary solid tumor,3a,alive,female,postmenopausal,black or african american,75,positive,positive,not evaluated,NA,NA,infiltrating ductal carcinoma,LumB
+TCGA-W8-A86G,primary solid tumor,2a,alive,female,postmenopausal,white,66,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-WT-AB41,primary solid tumor,2b,alive,female,postmenopausal,black or african american,55,positive,positive,not evaluated,NA,NA,infiltrating ductal carcinoma,Her2
+TCGA-WT-AB44,primary solid tumor,1a,alive,female,postmenopausal,white,77,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
+TCGA-XX-A899,primary solid tumor,3a,alive,female,postmenopausal,white,46,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-XX-A89A,primary solid tumor,2b,alive,female,postmenopausal,white,68,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumB
+TCGA-Z7-A8R5,primary solid tumor,3a,alive,female,postmenopausal,white,61,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,LumA
+TCGA-Z7-A8R6,primary solid tumor,1,alive,female,premenopausal,white,46,positive,positive,negative,NA,NA,infiltrating lobular carcinoma,Basal
